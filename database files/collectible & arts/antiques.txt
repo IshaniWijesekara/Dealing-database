@@ -1,0 +1,94 @@
+1).architectural & garden anitiques->
+	material	
+	origin/reproduction
+	color
+	style	
+	features
+	decade
+	condition
+	price
+	item location
+
+2).Asian antiques->	
+	primary material
+	region of origin 
+	type
+	age
+	color
+	origin/reproduction
+	condition
+	price
+	Item location
+
+3).decorative arts->
+	age
+	primary material
+	original/material
+	condition
+	price
+	item location
+
+4).furniture->
+	material
+	type	
+	style
+	region of origin
+	color
+	original/reproduction
+	condition
+	price
+	item location
+
+5).home & hearth antiques->
+	condition
+	price
+	item location
+
+6).linens & textiles->
+	condition
+	price	
+	item location
+
+7).maritime antiques->
+	original/reproduction
+	millitary branch
+	primary material
+	condition 
+	price
+	item location
+	
+8).periods & style->
+	style
+	material	
+	color
+	type
+	sub-style
+	condition
+	price
+	item location
+
+9).primitives->
+	date of creation
+	material	
+	type
+	style
+	region of origin
+	signed
+	size
+	featured refinment
+	original/reproduction
+	condition
+	price
+	item location
+
+10).silver->
+	composition
+	age
+	brand
+	type
+	patterm
+	style
+	condition
+	price
+	item location
+

@@ -1,0 +1,79 @@
+1).building blocks->
+	shop for	
+	brand
+	age level
+	model theme
+	character family
+	custom bundle
+	set theme
+	condition
+	price
+	item location
+
+2).building toy sets & packs->
+	shop for
+	brand
+	age level
+	character family
+	model theme
+	custom bundle
+	modified item
+	condition
+	price
+	item loaction
+
+3).building toy pieces & accessories->
+	shop for
+	brand
+	age level
+	model theme
+	material	
+	character family
+	condition
+	price
+	item location
+
+4).K'NEX Building toys->
+	age level
+	shop for
+	brand
+	product line
+	piece type
+	model
+	color
+	custom bundle
+	material
+	condition
+	price
+	item location
+
+5).LEGO Building toys->
+	shop for
+	product line
+	LEGO Character
+	age level
+	character family
+	model 
+	packaging
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+6).MEGA Blocks building toys->
+	brand
+	shop for
+	character family
+	product line
+	age level
+	custom bundle
+	model theme
+	color
+	material
+	condition
+	price
+	item location
+
+
+	

@@ -1,0 +1,168 @@
+1).cleaners & disinfection->
+	function
+	surface
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+2).aerosol & form cleaners->
+	function	
+	surface
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+
+3).Gel ,paste & powder cleaners->
+	function
+	surface
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+4).liquid cleaners->
+	function
+	surface
+	custom bundle
+	brand
+	modified item	
+	condition
+	price
+	item locatiion
+
+5).pod , cake & screen cleaners->
+	function
+	surface
+	scent
+	brand
+	condition
+	price
+	item location
+
+6).cleaning wipes & pads->
+	function
+	surface
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+7).manual cleaning equpment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+8).bottles,nozzles & sprayers->
+	bottle size	
+	nozzle type
+	color	
+	brand
+	equipment type
+	custom bundle
+	price
+	item location
+9).brush cleaners->
+	condition
+	price
+	item location
+
+10).cleaning brushers->
+	brush type
+	brnad
+	condition
+	price
+	item location
+
+11).cleaning sponges->
+	material
+	features
+	brand
+	price
+	item location
+
+12).standard buckets & pails->
+	material 
+	color	
+	features
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+13).disposal janitorial gloves->
+	size
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+14).reusable dusting cloths->
+	brand
+	condition
+	price
+	item location
+
+15).duster & duster refills->
+	equipment type
+	features
+	brand
+	head/refill material
+	custom bundle
+	condition
+	price
+	item location
+
+16).rags,towels & wipers->
+	cloth type
+	brand
+	material
+	condition
+	price
+	item location
+
+17).sorbant pads->
+	brand
+	condition
+	price
+	item location
+
+18).brooms & dustpans->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+19).mops,mop parts & accessories->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+20).drain & toilet plungers->
+	brand
+	condition
+	price
+	item location
+
+21).pump sprayers->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+

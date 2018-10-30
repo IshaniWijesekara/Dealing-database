@@ -1,0 +1,245 @@
+1).prepaid gaming cards->
+	type
+	brand	
+	custom bundle
+	condition
+	price
+	item location
+
+2).replacement parts & tools-.
+	palttform
+	brand
+	tofit		
+	type
+	model
+	custom bundle
+	condition
+	price
+	item location
+
+3).stratergy guides & cheats->
+	plattform
+	game name
+	custom bundle
+	modified item
+	type
+	condition
+	price
+	item location
+
+4).video game accessory bundle->
+	platform
+	brand	
+	model	
+	condition
+	price
+	item location
+
+5).vidoe game bags->
+	plattform
+	tofit
+	brand
+	type
+	material
+	color	
+	model
+	features
+	condition
+	price
+	item location
+
+6).video gmae batteries->
+	capacity
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+7).video game cables & adapaters->
+	plattform 
+	type	
+	brand
+	model
+	av connection
+	color
+	cable length
+	condition
+	price
+	item location
+
+8).video game chargers ->
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+9).game controllers->
+	plattform
+	brand
+	connectivity
+	type
+	color
+	model
+	wireless techonolgy
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+10).cooling devices->
+	plattform	
+	type
+	model
+	brand	
+	no. of fans	
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+11).video game harddrives->
+	storage capacity
+	plattform
+	type
+	brand
+	model
+	color
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+12).video game headsets->
+	plattform
+	brand
+	connectivity
+	features
+	fit design
+	earpiece
+	earpiece design
+	color
+	connector
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+13).video game keyboards & keypads->
+	plattform
+	brand
+	type
+	connectivity
+	color
+	interface
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+14).memmory cards & expansion packs->
+	storage capacity
+	plattform
+	brand
+	format
+	model
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+15).video game motion sensors & camera>
+	plattform
+	type
+	brand
+	model
+	color
+	connectivity
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+16).video game mounts & stands->
+	brand
+	type
+	plattform
+	model
+	toFit
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+17).video game screen protectors->
+	brand
+	features
+	plattform
+	model
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+18).video game styluses->
+	brand
+	color
+	plattform
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+19).video games->
+	plattform
+	genre
+	release year
+	game name
+	region code	
+	publisher
+	rating
+	brand
+	features
+	plattform
+	tofit
+	brand	
+	model
+	condition
+	price
+	item location
+
+
+	
+	

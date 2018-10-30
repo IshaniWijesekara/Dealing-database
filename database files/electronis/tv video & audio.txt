@@ -1,0 +1,100 @@
+1).calculators->
+	brand
+	type
+	size
+	feature
+	key size
+	power source
+	condition
+	price
+	item location
+
+2).DVD & Blueray players->
+	type
+	brand
+	playable disc formats
+	features
+	playable file formats
+	color
+	audio/video outoputs
+	condition
+	price
+	item location
+
+3).headphones->	
+	brand
+	type
+	features
+	color
+	earpiece design
+	connectivity
+	fit design
+	use
+	condition
+	price
+	item location
+
+4).home audio->
+	type
+	brand
+	condition
+	price
+	item location
+
+5).smart home electronics->
+	brand	
+	samrt home protocol
+	smart home comaptibility
+	condition
+	price
+	item location
+
+
+6).home speakers & subwoofers->	
+	brand
+	type
+	connectivity
+	color
+	configuratin
+	speaker design
+	RMS Power
+	condition
+	price
+	item location
+
+7).home surveillence electronincs->
+	brand
+	condition
+	price
+	item location
+
+8).media streamers->
+	brand
+	operating system
+	media input connectivity
+	processor
+	audio/video outputs
+	max resolution
+	faetures
+	mmedia streaming
+	storage capacity
+	condition
+	price
+	item location
+
+9).portable audio & headphones->
+	brand
+	custom bundle
+	ccondition
+	price
+	item location
+
+10).TVs->
+	brand
+	screen size
+	display technology
+	max.resolution
+	additional features
+	condition
+	price
+	item location

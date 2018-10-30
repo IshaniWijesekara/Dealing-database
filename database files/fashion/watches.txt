@@ -1,0 +1,86 @@
+1).wristwathes->
+	gender
+	brand
+	case material
+	display
+	movement
+	style
+	band material
+	band color
+	watch shape
+	condition
+	price
+	item location
+
+2).picket watches->
+	brand
+	year of manufacture
+	condition
+	price
+	item location
+
+3).key ring watches->
+	material
+	attachement type
+	brand
+	display
+	age group
+	condition
+	price
+	item location
+
+4).necklace watches->
+	brand
+	material
+	year of manufacture
+	movement
+	features
+	condition
+	price
+	item location
+
+5).nurse watches->
+	material
+	display
+	attachement type
+	color
+	brand
+	condition
+	price
+	item location
+
+6).ring watches->
+	material
+	color
+	brand
+	condition
+	price
+	item location
+
+7).watch batteries->
+	brand
+	button cell subtype
+	condition
+	price
+	item location
+
+8).wristwatch bands->
+	band material
+	band width
+	band color
+	brand
+	sty;e
+	band type
+	condition 
+	price
+	item location
+
+9).watch boxes, cases & winders->
+	type
+	brand
+	material
+	condition 
+	price
+	item location
+
+10).

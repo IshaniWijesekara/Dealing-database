@@ -1,0 +1,155 @@
+1).mens coats & jackets->
+	size
+	brand
+	color
+	material
+	region of manufacture
+	pattern
+	style
+	brand type
+	condition
+	price
+	item location
+
+
+2).men's jeans->
+	size
+	brand
+	size type
+	inseam
+	fit
+	material
+	brand type
+	wash
+	rise
+	condition
+	price
+	item location
+
+3).men's pants->
+	size
+	brand
+	size type
+	color
+	inseam
+	fit
+	brand type
+	style
+	region of manufacture
+	condition
+	price
+	item location
+
+4).men's shirts->
+	brand type
+	brand
+	color
+	size
+	sleeve length
+	region of manufacture
+	condition
+	price
+	item location
+
+5).men's active wear->
+	brand type
+	brand
+	activity
+	color
+	fit
+	material
+	condition
+	price
+	item location
+
+6).men's shorts->
+	size
+	brand
+	size type
+	material
+	style
+	color
+	occassion	
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+7).men's sleepwear & robes->
+	size
+	brand
+	style
+	material
+	color
+	region of manufacture
+	brand type
+	condition
+	price
+	item location
+
+8).men's socks->
+	sock size
+	brand
+	style
+	material
+	color
+	brand type
+	region of manufacture
+	theme
+	modified item
+	condition
+	price
+	item location
+
+9).men's suits & suit separators->
+	size
+	size type
+	jacket length
+	type
+	style
+	brand
+	material
+	pateern
+	color
+	condition
+	price
+	item location
+
+10).man's sweaters->
+	size
+	style
+	brand
+	material
+	color
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+11).men's swimwear->
+	size
+	size type
+	style
+	brand
+	color
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+12).men's underwear->
+	size
+	size type	
+	style	
+	brand
+	color
+	material
+	region of manufacture
+	brand type
+	condition
+	price
+	iem location
+

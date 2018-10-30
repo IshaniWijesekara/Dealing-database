@@ -1,0 +1,68 @@
+1).Casters & wheels->
+	brand
+	condition	
+	price
+	item location
+
+2).Conveyors & conveyor parts->
+	brand
+	condition
+	price
+	item location
+
+3).hoists, winches & rigging->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).ladders , scaffolding & plattforms->
+	brand
+	condition
+	price
+	item location
+
+5).material handling manuals & books ->
+	brand
+	equipment type
+	condition
+	price
+	item location
+
+6).packing & shipping->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+7).shelving & storage->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+8).shipping containers->
+	custom bundle
+	modified item	
+	brand
+	condition
+	price
+	item location
+
+9).warehouse carts & trucks->
+	brand
+	custom bundle
+	condition	
+	price
+	item location
+
+10).warehouse loading & unloading->
+	brand
+	condition
+	price 
+	item location
+

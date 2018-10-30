@@ -1,0 +1,91 @@
+1_.collectible advertising->
+	original
+	condition
+	price
+	item location
+
+2).animation arts & characters->
+	modified item
+	condition
+	price
+	item location
+
+3).arcade ,jukebox & pinball collectibles->
+	year
+	condition
+	price
+	item location
+
+4).breweriana & beer collectibles->
+	condition
+	price
+	item location
+
+5).collcetible comics->
+	certification
+	modified item
+	condition
+	price
+	item location
+
+6).ethnic & cultural collectibles->
+	condition
+	price
+	item location
+
+7).decorative colectibles->
+	condition
+	price
+	item location
+
+8)holiday seasonal->
+	condition
+	price
+	item location
+
+9).kitchen & home collectibles->
+	condition
+	price
+	item location
+
+10).collectible knives ,swords, blades ,arms->
+	brand
+	blade material
+	handle material
+	authenticity
+	color
+	dexeterity
+	modified item
+	condition
+	price
+	item location
+
+11).lamps & lightening->
+	modified item
+	condition
+	price
+	item location
+12).millitaria->
+	modified item
+	condition
+	price
+	item location
+
+13).pen & writing instruments-0>
+	material
+	vintage
+	condition	
+	price
+	item location
+
+14).rocks, fossils & minerals->
+	modified item
+	condition
+	price
+	item location
+
+15).collectible tools,hardware & locks->
+	modified item
+	condition
+	price
+	item location

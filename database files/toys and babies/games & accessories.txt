@@ -1,0 +1,58 @@
+1).gathering cards & merchandise->
+	set
+	language
+	card condition
+	color
+	brand
+	condition
+	price
+	item location
+
+2).collectible card game items->
+	language 
+	franchise
+	brand
+	game
+	condition
+	price
+	item location
+
+3).pokeman trading card game cards & merchandise->
+	set
+	language
+	card condition
+	brand
+	condition
+	price
+	item location
+
+4).star trek trading cards->
+	manufacture
+	genre
+	features
+	subject type
+	condition
+	price
+	item location
+
+5).star wars trading cards->
+	genre
+	features
+	time period
+	series
+	featured caharacters
+	manufacturer
+	subject type
+	condition
+	price
+	item location
+
+6).yu-gi-oh trading cards & merchandise->
+	language
+	brand
+	card condition
+	set
+	condition
+	price
+	item location
+

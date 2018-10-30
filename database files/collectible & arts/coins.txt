@@ -1,0 +1,45 @@
+1).ancient coins->
+	condition
+	price
+	item location
+
+2).world coins->
+	certification
+	composition
+	year
+	shape
+	grade
+	condition
+	price
+	item location
+
+3).exonumia->
+	condition
+	price
+	item location
+
+4).paper money world->
+	shape
+	type
+	year	
+	condition
+	price
+	item location
+
+5).paper money pulications & supplies->
+	brand
+	modified item
+	condition
+	price
+	item location
+
+6).stocks & bonds->
+	condition
+	price
+	item location
+7).virtual currency->
+	modifed item
+	condition
+	price
+	item location
+

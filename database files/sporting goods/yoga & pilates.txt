@@ -1,0 +1,77 @@
+1).Yoga & pillates mat carrier & bags->
+	type
+	brand
+	color
+	custom bundle
+	activity
+	condition
+	price
+	item location
+
+
+2).yoga & pilates mates & non-slip towels->
+	type 
+	brand
+	color
+	material
+	custom bundle
+	activity
+	condition
+	price
+	item location
+
+3).pillates tables->
+	brand
+	type
+	color
+	custom bundle
+	activity
+	modified item
+	condition
+	price
+	item location
+
+4).yoga straps->
+	color
+	brand
+	activity
+	condition
+	price
+	item location
+
+5).pillets rings->	
+	color
+	brand
+	activity
+	condition
+	price
+	item location
+
+6).yoga straps->
+	color
+	brand
+	activity
+	condition
+	price
+	item location
+
+7).yoga props->
+	brand
+	type
+	color
+	custom bundle
+	activity
+	condition
+	price
+	item location
+
+8).yoga & pillets accessories->
+	brand
+	type
+	activity
+	color
+	custom bundle
+	condition
+	price'
+	item location
+

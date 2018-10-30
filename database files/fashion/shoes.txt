@@ -1,0 +1,218 @@
+1)mens athelatic shoes->
+	shoe size	
+	brand
+	color
+	style
+	brand type
+	upper material
+	width
+	region of manufacture
+	pattern
+	condition
+	price
+	item location
+
+2).mens boots->
+	shoe size
+	brand
+	style
+	color
+	width
+	upper material
+	fastening
+	brand type
+	features
+	condition
+	price
+	item location
+
+3).mens casual shoes->
+	shoe size
+	brand
+	color
+	style
+	upper material
+	width
+	brand type
+	pattern
+	condition
+	price
+	item location
+
+4).mens dress shoes->
+	shoe size
+	brand
+	color
+	width
+	style
+	upper material
+	occassion
+	brand type
+	region of manuacuture
+	condition
+	price
+	item location
+
+5).men's sandals->
+	shoe size
+	brand
+	style
+	upper material
+	color
+	brand type
+	region of manufacture
+	pateern
+	euro size
+	condition
+	price
+	item location
+
+6).mens slippers->
+	shoe size
+	brand
+	upper material
+	color
+	style
+	pattern
+	region of manufacture
+	brand type
+	width
+	condition
+	price
+	item location
+
+7).womens athletic shoes->
+	shoe size
+	brand
+	color
+	material
+	width
+	style
+	heel height
+	condition
+	price
+	item location
+
+8).womens boots->
+	shoe size
+	brand
+	boot shaft height
+	color
+	heel heigjht
+	heel type
+	features
+	occassion
+	style
+	condition
+	price
+	item location
+
+9).womens comfort shoes->
+	shoe size
+	color
+	brand
+	style
+	material
+	width
+	brand type
+	heel height
+	pattern
+	condition
+	price
+	item location
+
+10).womens flats->
+	shoe size
+	brand
+	color
+	material
+	width
+	style
+	fastening
+	heel height
+	brand type
+	condition
+	price'	
+	item location
+
+11).womenxz heels-?
+	shoe size
+	brand
+	heel type
+	material
+	color
+	width
+	brand type
+	style
+	heel height
+	condition
+	price
+	item location
+
+12).womens sandals->
+	shoe size
+	brand
+	color
+	heel height
+	material
+	style
+	fastening
+	heel type
+	condition
+	price
+	item location
+
+13).womens slipeers-?
+	shoe size
+	brand	
+	color
+	material
+	style	
+	heel height
+	region of manufacture
+	width
+	pattern
+	conditioin
+	price
+	item location
+
+14).baby clotthing accessories->
+	gender
+	brand
+	color
+	region of manufacture
+	brand type
+	theme
+	condition
+	price
+	item location
+
+15).girls shioes->
+	shoe size
+	style
+	brand
+	characher
+	color
+	material
+	brand type
+	season
+	width
+	condition
+	price
+	item location
+
+16).boys shoes->
+	shoe sizre
+	brand
+	character
+	style
+	color
+	brand type	
+	material	
+	width
+	consition
+	price
+	item location
+
+17).
+	

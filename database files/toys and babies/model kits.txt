@@ -1,0 +1,142 @@
+1).Artifact millitary->
+	scale
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).Anime->
+	brand
+	character family
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).automotive kits->
+	brand
+	scale
+	age level
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+4).boat & ship->
+	brand
+	age level
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).model & kit dioramas->
+	age level
+	custom bundle
+	brand
+	features
+	modified item
+	condition
+	price
+	item location
+
+6).millitary->
+	brand
+	age level
+	custom bundle
+	scale
+	features
+	modified item
+	condition
+	price
+	item location
+
+7).monster->
+	brand
+	character family
+	age level
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+8).motorcycle toy model & kits->
+	brand
+	 scale
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+9).promo models & kits->
+	brand
+	featured refinment
+	features
+	custom bundle
+	modified item
+	scale
+	condition
+	price
+	item location
+
+10).sceince fiction toy models & kits->
+	brand
+	character family
+	age level
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+11)spacecraft->
+	brand
+	character famliy
+	age level
+	features
+	condition
+	price
+	item location
+
+12).super hero->
+	brand
+	custom bundle
+	age level
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+13).tools,supplies & engines->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+14).wooden->
+	brand
+	features
+	age level
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+

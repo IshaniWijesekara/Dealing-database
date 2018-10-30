@@ -1,0 +1,136 @@
+1).binoclars & telescope->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).Cacorders-.>
+	brand
+	recording definition
+	series
+	color
+	type
+	media format
+	storage type
+	features
+	optical zoom
+	condition
+	price
+	item location
+
+3).camera & photo accessories->
+	brand
+	compatible brand
+	condition
+	price
+	item location
+
+4).camera drones->
+	brand
+	camera features
+	model
+	camera integration
+	conectivity
+	FPV Operation
+	type
+	custom bundle
+	condition
+	price
+	item location
+
+5).camera lenses & filters->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+6).digital cameras->
+	features
+	brand
+	series
+	type
+	megapixels
+	color
+	battery type
+	optical zoom
+	model
+	condition
+	price
+	item location
+
+7).digital photo frames->
+	display type
+	brand
+	color
+	display size
+	connectivity
+	features
+	internal memeory capacity
+	compatible external memeory
+	custom bundle
+	condition
+	price
+	item location
+
+8).film photography->
+	brand	
+	custom bundle
+	condition
+	price
+	item location
+
+9).camera flashes & flash accessories->
+	brand	
+	condition
+	price
+	item location
+
+10).mauals & guides->
+	brand
+	compatible brand
+	type
+	condition
+	price
+	item location
+
+11).photo studio & lightening equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+12)replacement parts & tools->
+	brand
+	custom bundler
+	condition
+	price
+	item location
+
+13).tripods & supports->	
+	compatible brand
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+14).video production & editing equipment->
+	brand
+	modifid item
+	condition
+	price
+	item location
+
+15).vintage movie & photography equipment->
+	brand
+	custom bundle
+	MODIFIED item
+	condition
+	price
+	item location
+
+16).
+	

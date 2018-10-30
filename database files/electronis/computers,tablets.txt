@@ -1,0 +1,225 @@
+1).3d printers & supplies->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+2).computer cables & connectors->
+	type
+	brand
+	connectors
+	cable length
+	condition
+	price
+	item location
+
+3).computer cases & acessores-
+	brand
+	condition
+	price
+	item location
+4).CPU->
+	brand
+	socket type
+	processor type
+	no of cores
+	clock speed		
+	bus speed
+	processor model
+	custom bundle
+	condition
+	price
+	item location
+
+5).computer fans,heat sinks & cooling eqipmemt->
+	brand
+	condition
+	price
+	item location
+
+60.graphic cards->
+	memory size
+	brand
+	chipset
+	model
+	memeory type
+	appropriate for
+	connectorss
+	compatible slot
+	custom bundle
+	condition
+	price
+	item location
+
+7).Interface & add-on cards->
+	brand
+	type
+	condition
+	price
+	item location
+
+8).laptop replacement parts->
+	type
+	brand
+	comapatible brand
+	condition
+	price
+	item location
+
+9).RAM->
+	total capacity
+	brand
+	capacity [er modules
+	no of modules
+	form faactor
+	bus speed
+	type
+	no of pins
+	condition
+	price
+	item location
+
+10).motherbopards->
+	brand
+	comapatible cpu brand
+	socket type
+	form factor
+	no of memory slots
+	memeort type
+	input/output ports
+	appropriate fpr
+	custom bundle
+	condition
+	price
+	item location
+
+11).mcomputer motherboard & cpu combos->
+	motherboard brand
+	cpu brand
+	cpu clock speed
+	condition
+	price
+	item location
+
+12).computer power supplies->
+	max output powers
+	brand
+	form factor
+	condition
+	price
+	item location
+
+13).internal sound cards->?>
+	comaptible port
+	brand
+	channels
+	form factor
+	condition
+	price
+	item location
+
+14).video capture & tv tuner cards->
+	brnd
+	card functionality
+	compatible port
+	broadcast support
+	video capture
+	condition
+	price
+	item location
+
+15).computer driver,storage & blank media->
+	brand
+	condition
+	price
+	item location
+
+16).computer keyboards ,mice & pointers->
+	connectivity
+	brand
+	interface
+	condition
+	price
+	item location
+
+17).computer monitors,projectors & accessories->
+	brand
+	condition
+	price
+	item location
+
+18).computer power protection & distribution equipment->
+	brand
+	condition
+	price
+	item location
+19).computer printers,scanners & supplies->
+	type
+	condition
+	price
+	item location
+
+20)computer software->
+	type
+	format
+	palttform
+	langauge
+	brand
+	condition
+	price
+	item location
+
+21).computer,tablet & networking manuals & resources->
+	type
+	format
+	lanuage
+	condition
+	price
+	item location
+
+22).desktpos & all-in-one computers->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+23).enterprise networking & servers->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+24).home networking & connectivity equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+25).laptop & desktop accessories->
+	brand
+	condition
+	price
+	item location
+
+26).laptops & netbooks->
+	brand
+	modified item
+	condition
+	price
+	item location
+
+27).tablet & ereader acessories->
+	comapatible brand
+	comapatible model
+	brand
+	condition
+	price
+	item location
+
+
+	

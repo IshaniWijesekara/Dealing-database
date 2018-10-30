@@ -1,0 +1,180 @@
+1).Fitness ,running & yoga equipment->
+	brand
+	activity
+	condition
+	price
+	item location
+
+2).Cardio equipment->
+	brand,
+	activity,
+	resistence,
+	features,
+	condition,
+	price
+	item location
+
+3).elliptical machines->
+	brand
+	activity
+	featurse
+	type
+	resistence
+	standard
+	custom bundle	
+	condition
+	price
+	item location
+
+4).Exercise Bikes->
+	type
+	brand
+	activity
+	featurse
+	rseistance
+	standard
+	condition
+	price
+	item location
+
+5).Fitness,running & yoga glider machines->
+	brand
+	resistence
+	ativity
+	type
+	standard
+	Condition
+	price
+	item location
+
+6).Rowing machines->
+	brand
+	resistence
+	ativity
+	type
+	standard
+	Condition
+	price
+	item location
+
+7).ski exercise machines->
+	features
+	activity
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+8).stair machines & steppers->
+	brand
+	type
+	activity
+	features
+	resistence
+	standards
+	condition
+	item location
+
+9).treadmills->
+	brand
+	activity
+	resistence
+	condition
+	price
+	item location
+
+10).vibration plattform machine->
+	brand
+	activity
+	resistence
+	condition
+	price
+	item location
+
+11).cardio equipment parts &  acessories->
+	brand
+	activity
+	resistence
+	condition
+	price
+	item location
+
+12).exercise clothimgs & accesories->	
+	gender
+	Activity
+	brand
+	color
+	material
+	condition
+	price
+	size
+	item location
+
+13).fitness DVD
+	activity
+	brand
+	subject
+	custom bundle
+	format
+	modified item
+	condition
+	price
+	item location
+
+14).fitness equipoments & gears->
+	activity
+	brand
+	color
+	condition
+	price
+	item location
+
+15).fitness technology->
+	brand
+	color
+	activity
+	features
+	condition
+	price
+	item location
+
+16).GYm Bags->
+	brand
+	gender
+	type
+	type of sports
+	activity
+	color
+	features
+	size
+	condition
+	price
+	item location
+
+17).fitness & running shoes->
+	brand
+	activities
+	material
+	condition
+	price
+	item location
+
+18).strength training equipments->
+	activity
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+19).yoga & pilates->
+	brand
+	activity
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+

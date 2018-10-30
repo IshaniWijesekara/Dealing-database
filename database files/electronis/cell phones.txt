@@ -1,0 +1,238 @@
+1).cell phone accessory bundles->
+	compatible brand
+	brand
+	compatible model
+	custom bundle
+	condition
+	price
+	item location
+
+2).cell phone armbands-'>
+	compatible model
+	comaptible brand
+	featurs
+	color
+	material
+	brand
+	condition
+	price
+	item location
+
+3).cell phone audio docks & speakers->
+	compatible model
+	comaptible brand
+	featurs
+	color
+	material
+	brand
+	condition
+	price
+	item location
+
+4).cell phone cables & adaptors->
+	compatible model
+	comaptible brand
+	featurs
+	color
+	material
+	brand
+	condition
+	price
+	item location
+
+5).batteries->
+	capacity
+	compatible model
+	comaptible brand
+	featurs
+	color
+	material
+	brand
+	condition
+	price
+	item location
+
+6).car speakerphones->
+	charger included
+	compatible model
+	comaptible brand
+	featurs
+	brand
+	condition
+	price
+	item location
+	
+7).cell phone cases,covers & skins->
+	design
+	compatible model
+	comaptible brand
+	featurs
+	color
+	material
+	brand
+	condition
+	price
+	item location
+8).cell phone chagers & cradles->
+	connectivity
+	type
+	number of ports
+	model
+	type	
+	brand
+	color
+	material
+	condition
+	price
+	item location
+
+9).Cell phone faceplates, decals & stickers->
+	condition
+	price
+	item location
+
+10).cell phone headsets->
+	cmpatible brand
+	features
+	brand
+	wireless technology
+	earpiece design
+	color
+	fit design
+	earpiece
+	comaptible model
+	condition
+	price
+	item location
+
+11).cell phone transmitters->	
+	brand
+	comaptible brand
+	features
+	compatible model
+	condition
+	price
+	item location
+
+12).cell phone memeory card readers & adapters->
+	type
+	memeory card
+	compatible brand
+	brand
+	compatible brand
+	brand
+	compatible model
+	custom bundle
+	condition
+	price
+	item location
+
+13).cell phone memory cards->
+	storage capacity
+	brand
+	format
+	compatible model
+	speed class
+	compatible brand
+	custom bundle
+	condition
+	price
+	item location
+
+14).cell phonemounts & holders->
+	mounting type
+	mounting location
+	features
+	compatible model
+	compatible brand
+	custom bundle
+	condition
+	price
+	item location
+	
+	
+15).port dust covers->
+		brand
+	comaptible brand
+	features
+	compatible model
+	condition
+	price
+	item location
+
+16).screen protectors->
+	brand
+	comaptible brand
+	features
+	compatible model
+	condition
+	price
+	item location
+17).signal boosters->
+		brand
+	comaptible brand
+	features
+	compatible model
+	condition
+	price
+	item location
+18).cell phone transmitters->
+		brand
+	comaptible brand
+	features
+	compatible model
+	condition
+	price
+	item location
+
+19).cell phone cards & sim cards->
+	brand
+	custom bindle
+	condition
+	price
+	item location
+
+20).cell phone displays->
+	brand
+	model
+	condition
+	price
+	item location
+
+21).ringtones,logos & software->
+	type
+	condition
+	price
+	item location
+
+22).cell phones & smartphones->
+	features
+	connectivity
+	brand
+	network
+	storage capacity
+	operating system
+	model
+	color
+	style
+	condition
+	price
+	item location
+
+23).PDA accessories->
+	type
+	brand
+	compatible brand
+	condition
+	price
+	item location
+
+24).smart watch accessories->
+	brand
+	comaptible model
+	condition
+	price
+	item location
+
+25).
+	

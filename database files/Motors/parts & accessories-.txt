@@ -1,0 +1,141 @@
+1).ATV Parts & accessoir
+	brand
+	warrenty
+	condition
+	price
+	item location
+
+2).apparal & merchanise->
+	gender
+	size
+	brand
+	color
+	warrenty
+	material
+	display make
+	condition
+	price
+	item location
+
+3).automative tools & supplies->
+	brand
+	condition
+	price
+	item location
+
+4).aviation parts & accessories->
+	brand
+	warrenty
+	compatible make
+	condition
+	price
+	item location
+
+5).boat parts->
+	brand
+	 warrenty
+	condition
+	price
+	item location
+
+6).car & electronincs->
+	brand
+	condition
+	price
+	item location
+
+
+7).car & truck parts->
+	price
+	format
+	item location
+
+8).commercial car parts & acessorues->
+	compatible make
+	brand
+	compatible year
+	warrenty
+	condition
+	price
+	item location
+
+9).golf cart parts & accessorie->
+	ompatible make
+	brand
+	compatible year
+	warrenty
+	condition
+	price
+	item location
+
+10).manuals & literature->
+	make 	
+	condition
+	price
+	item location
+
+11).motorcycles & acessories->
+	brand
+	warrenty
+	machine type
+	condition
+	price
+	item location
+
+12).motorcycle parts->
+	brand
+	warrenty
+	machine type
+	condition
+	price
+	item location
+
+13).perfromance & racing parts->
+	brand
+	warrenty
+	condition
+	price
+	item location
+
+14).personal watercraft parts->
+	brand
+	warrenty
+	condition
+	price
+	item location
+
+15).RV Triler & camper parts->
+	brand
+	warrenty
+	custom bundle
+	modifid item
+	condition
+	price
+	item location
+
+16).salvage parts cars->
+	make
+	condition
+	price
+	item location
+
+17).scooter parts & accessories->
+	brand
+	condition
+	price
+	item location
+
+18).services & installation->
+	warrenty
+	condition
+	price
+	item location
+
+19).vinatage car & truck psrts->
+	brand
+	warrenty
+	condition
+	price
+	item location
+
+20).

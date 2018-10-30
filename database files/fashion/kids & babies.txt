@@ -1,0 +1,557 @@
+1).boy's jeans->
+	size
+	brand
+	color
+	brand type
+	style
+	size type
+	material
+	region of manufacture
+	condition
+	price
+	item location
+
+
+2).boys outwear->
+	size
+	brand
+	season
+	material
+	style
+	color
+	brand type
+	sleeve length
+	region of manufacture
+	condition
+	price
+	item location
+
+
+3).boys pants->
+	size
+	brand
+	color
+	style
+	material	
+	brand type
+	occassion
+	size type
+	region of manufacture
+	condition
+	price
+	item location
+
+4).boys shorts->
+	size
+	brand
+	color
+	style
+	material	
+	brand type
+	occassion
+	size type
+	region of manufacture
+	condition
+	price
+	item location
+
+5).boys sleepwear->
+	size	
+	character
+	style
+	brand
+	material
+	theme
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+6).boys socks->
+	size
+	brand
+	color
+	style
+	brand type
+	material
+	region of manufacture
+	condition
+	price
+	item location
+
+&).boys suits->
+	size	
+	color
+	style
+	material
+	occassion
+	region of manufacture
+	brand
+	brand type	
+	condition
+	price
+	item location
+
+9).boys sweaters->
+	size
+	brand
+	theme
+	material
+	brand type
+	style
+	condition
+	price
+	item location
+
+10).bous sweatshirts & hoodies->
+	size
+	style
+	character
+	brand
+	color
+	material
+	modified item
+	size type
+	condition
+	price
+	item location
+
+11).boys swimwear->
+	size
+	style
+	brand
+	brand type
+	material
+	color
+	region of manufacture
+	size type
+	condition
+	price
+	item location
+
+12).boy's tops & t-shirts->
+	size
+	sleeve length
+	brand
+	character
+	brand type
+	color
+	material
+	region of manufacture
+	condition
+	price
+	item location
+
+13).boys underwear->
+	style
+	size
+	brand
+	brand type
+	color
+	material
+	region of manufacture
+	size type
+	condition
+	price
+	item location
+
+14).boys uniforms->
+	size
+	brand type
+	brand
+	uniform type	
+	material
+	style
+	color
+	region of manufacture
+	condition
+	price
+	item location
+
+15).boys vests->
+	brand type
+	brand
+	size
+	color
+	material
+	region of manufacture
+	size type
+	condition
+	price
+	item location
+
+16).boys shoes->
+	us shoe size
+	brand
+	character
+	style	
+	color
+	features & fastening
+	brand type
+	material
+	width
+	condition
+	price
+	item location
+
+17).boys accessories->
+	boys accessory name
+	brand type
+	brand
+	color
+	region of manufacture
+	condition
+	price
+	item location
+
+18).girls dresses->
+	size
+	sleeve length
+	season
+	occassion
+	brand
+	color
+	character
+	material
+	region of manufacture
+	condition
+	price
+	item location
+
+19).girls jumpsuits & rompers->
+	size
+	brand
+	brand type
+	style
+	region of manufacture
+	material 	
+	color
+	condition
+	price
+	item location
+
+20).girls leggings->
+	size
+	brand
+	color
+	lenght
+	material
+	region of manufacture
+	brand type
+	size type
+	condition
+	price
+	item location
+
+21).girls outwear->
+	size
+	brand
+	season
+	material
+	style
+	color	
+	brand type
+	sleeve length
+	charactere
+	condition
+	price
+	item location
+
+22). girls outfit & sets->	
+	size
+	brand
+	brand type
+	sleeve length
+	material
+	color
+	region oof manufacture
+	condition
+	price
+	item location
+
+23).girls pants->
+	size
+	brand
+	color
+	style
+	brand type
+	material
+	region of manufacture
+	size type
+	condition
+	price
+	item location
+
+24).girls shorts->
+	size
+	brand
+	color
+	style
+	brand type
+	material
+	region of manufacture
+	size type
+	condition
+	price
+	item location
+
+25).girls skirts->
+	size
+	brand
+	color
+	style
+	brand type
+	material
+	region of manufacture
+	size type
+	condition
+	price
+	item location
+
+26).girls sleepwear->
+	size
+	brand
+	style
+	character
+	material
+	sleeve length
+	character family
+	brand type
+	color
+	condition
+	price
+	item location
+
+27).girls socks & tighs->
+	style
+	size
+	band
+	color
+	material
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+28).girls sweaters->
+	size
+	style
+	brand
+	color
+	material
+	occassion
+	brand type
+	sleeve length
+	region of manufacture
+	condition
+	price
+	item location
+
+29).girls swim wear->
+	size
+	style
+	brand
+	brand type
+	material
+	color
+	character
+	region of maufacture
+	character family
+	condition
+	price	
+	item location
+
+30).girls tops & shirts->	
+	slleve lenght
+	size
+	brand
+	brand type
+	color
+	material
+	region of manufacture
+	condition
+	price	
+	item location
+
+
+31).girls underwear->
+	size
+	brand
+	style
+	material
+	brand type
+	color
+	region of manufacture
+	size type 
+	condition
+	price	
+	item locaion
+
+32).girls uniforms->
+	size
+ 	style
+	color
+	brad type
+	brand
+	region of manufacture
+	material
+	uniform type
+	confition
+	price
+	item location
+
+33).girls shoes->
+	shoe size
+	style
+	brand
+	character
+	color
+	material
+	brand type
+	season
+	width
+	condition
+	price
+	item location
+
+34).girls accessories->
+	brand
+	brand type
+	region of manufacture
+	color	
+	condition
+	price'	
+	item location
+
+35).unisex kids jeans->
+	brand type
+	brand
+	size
+	color
+	material
+	region of manufacture
+	condition
+	price	
+	item location
+
+36).unisex kids outwear->
+	brand type
+	brand
+	size
+	color
+	material
+	sleeve length
+	condition
+	price'	
+	item location
+
+37).unisex kids pants->
+	brand type
+	brand
+	size 
+	style
+	color
+	material
+	region of manufactire
+	condition
+	price
+	item location
+
+38).unisex kids shorts->
+	brand type
+	brand
+	size
+	color
+	material
+	region of manufacture	
+	condition
+	price
+	item location
+
+39).unisex kids sleapwear->
+	brand type
+	brand
+	 size
+	style
+	color
+	material
+	sleeve length
+	condition
+	price
+	item location
+
+40).unisex kids socks->
+	brand type
+	brand
+	color
+	material
+	region of manufacture
+	condition
+	price 	
+	item location
+
+41).unisex kids sweaters->
+	brand type
+	brand
+	size
+	style
+	color
+	material
+	sleeve length
+	condition
+	price	
+	item location
+
+42).unisex kids swim wear->
+	brand type
+	brand
+	size
+	style
+	color
+	material
+	sleeve length
+	condition
+	price	
+	item location
+
+
+43).unisex kids tops & shirts->
+	size
+	color
+	sleeve lenght
+	material
+	brand
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+44).unisex kids uniforms->
+	brand type
+	sleeve length
+	brand
+	uniform type
+	size 	
+	style
+	color
+	condition
+	price 
+	item location
+
+45).unisex kids shoes->
+	shoe size	
+	brand
+	color
+	style
+	material
+	brand typoe
+	region of manufacture
+	condition
+	price'		
+	item location
+
+46).
+	

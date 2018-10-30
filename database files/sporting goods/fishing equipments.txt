@@ -1,0 +1,52 @@
+1).Fishing rods->
+	brand
+	custom bundle
+	condition
+	price
+	item loaction
+
+2).Fishing reels->
+	brand
+	fishing type
+	hand retrieve
+	fish species
+	gear ratio
+	custom bundle
+	modified item
+	condition
+	price
+	
+3).Fishing rod & reel combos->
+	rod length
+	brand
+	fishing type
+	hand retreive
+	fish species
+	rod power
+	custom bundle
+	gear ratio
+	condition
+	price
+	item location
+
+
+4).Fishing Baits,Lures & files->
+	fish species
+	brand
+	fishing type
+	custom bundle
+	condition
+	price
+	buying format
+	item location
+	
+
+5).Fishing line & leathers->
+	brand
+	fishing type
+	color
+	length
+	custom bundle
+	condition
+	price
+	item location

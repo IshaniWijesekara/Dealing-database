@@ -1,0 +1,112 @@
+1).Brass Instruments->
+	Brand
+	skill level
+	finish
+	color
+	bell material
+	finished material
+	condition
+	price
+	item location
+
+2).DJ equipments->
+	features,
+	brand
+	type
+	custom bundle
+	inputs/outputs	
+	modified item
+	condition
+	price
+	item location
+
+3).Guitar & Bases->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).karaoke entertainment equipments->
+	custom bundle
+	condition
+	price
+	item location
+
+5).musical instrument equipment->
+	brand
+	condition
+	price
+	item location
+
+6).musical instrument instruction books,cds & videos->
+	format
+	skill level
+	brand
+	condition
+	price
+	item location
+
+7).percussion instruments->
+	brand
+	size	
+	custom bundle
+	condition
+	price
+	item location
+
+8).Pianos, keyboards & organs->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+9).pro audio equipment->
+	brand
+	condition
+	price
+	item location
+
+10).sheet music & song books->
+	format
+	Genre
+	instrument
+	condition
+	price
+	item location
+
+11).Stage lightening & effects->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+12).String instruments->
+	brand
+	skill level
+	custom bundle
+	condition
+	price
+	item location
+
+13).Vintage musical instrument->
+	decade
+	custom bundle
+	condition
+	price
+	item location
+
+14).Wind & woodwind instruments->
+	brand
+	skill level
+	custom bundle
+	condition
+	price
+	item location
+
+
+	
+	

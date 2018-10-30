@@ -1,0 +1,58 @@
+1).control line & freeflight models & kits->
+	brand
+	type
+	custom bundle
+	color
+	modified item
+	condition
+	price
+	item location
+
+2).other rc model vehicles,control line & rc toys->
+	brand
+	condition	
+	price
+	item loction
+
+3).RC Model vehicle parts & accessories->
+	brand
+	compatible scale
+	compatible vehicle type
+	compatible fule type
+	compatible brand
+	color
+	condition
+	price
+	item location
+
+4).RC Model plans, templates & manuls->
+	brand
+	type
+	compatible vehicle type
+	codition
+	price
+	item location
+
+5).RC Vehicles->
+	brand
+	fuel type
+	scale
+	required assembly
+	material
+	color
+	condition
+	price
+	item location
+
+6).simulators->
+	brand
+	condition
+	price
+	item location
+
+7).tether cars->
+	brand
+	condition
+	price
+	item location
+

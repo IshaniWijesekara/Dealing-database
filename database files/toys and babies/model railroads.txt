@@ -1,0 +1,103 @@
+1).G Scale->
+	brand
+	grading
+	material
+	color
+	year	
+	vintage
+	condition
+	price
+	item location
+
+2).HO Scale->
+	brand	
+	material
+	grading
+	color
+	year'
+	price
+	item location
+
+3).N Scale-?>
+	brand
+	MATERIAL
+	year
+	grading
+	color
+	vintage
+	stage of assembly
+	features
+	modified item
+	condition
+	price
+	item location
+
+4).O Scale->
+	brand
+	year	
+	grading
+	color
+	material
+	vintage
+	state of assembly	
+	age level
+	modified item
+	condition
+	price
+	item location
+
+5).OO scale->
+	brand
+	material
+	state of assembly
+	vintage
+	year
+	modified item
+	condition
+	price
+	item location
+
+6).Other rare scale model railroads & trains->
+	brand
+	material
+	year
+	grading
+	character family
+	color
+	modified item
+	condition
+	price
+	item location
+
+7).power tools->
+	brand
+	material
+	condition
+	price
+	item location
+
+8).S Scale->
+	brand
+	year
+	grading
+	color
+	vintage
+	material
+	modifeid item
+	state of assembly
+	condition
+	price
+	item location
+
+9).standard scale->
+	brand
+	year
+	color
+	vintage
+	grading
+	material
+	guage
+	modified item
+	condition
+	price
+	item location

@@ -1,0 +1,112 @@
+1).industrial fastners & hardware ->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+2).brackets & joining plates->
+	brand
+	condition
+	price
+	item location
+
+3).extension & compression springs->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+4).industrial clamps,ties & cords->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+5).industrial fastners anchor->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+6).industrail fastner nuts->
+	brand
+	condition
+	price
+	item location
+
+7).industrial fastening pins->
+	brand
+	condition
+	price
+	item location
+
+8).industrial hardware washers->
+	brand
+	condition
+	price
+	item location
+9).industrial magents->
+	shape
+	gender
+	featured refinments
+	brand
+	material
+	condition
+	price
+	item location
+
+10).industrial nails & staples->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+11).industrial retaining rings->
+	brand
+	condition
+	price
+	item location
+
+12).industrial rivets->
+	brand
+	condition
+	price
+	item location
+
+13).industrial screw & bolts->?
+	drive type
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+14).industrial threaded inserts->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+15).industrial threaded rods & threaded studs->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+16).standoffs & spacers->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+

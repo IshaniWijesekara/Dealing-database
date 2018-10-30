@@ -1,0 +1,263 @@
+1).home & garden furniture->
+	color
+	room
+	material
+	brand
+	style
+	custom bundle
+	features
+	condition
+	price 
+	features
+
+2).armoires & wardrobes->
+	features
+	room
+	material
+	brand
+	type
+	custom bndle
+	condition
+	price
+	item location
+
+3).bar carts & serving carts->
+	brand
+	room
+	material
+	color
+	features
+	style
+	custom bundle
+	condition
+	price
+	item location
+
+4).bar stools->
+	room 
+	material
+	type
+	color
+	brand
+	style
+	price
+	Item location
+
+5).beds & matresses->
+	material
+	style
+	custom bundle
+	brand
+	modified item
+	features
+	room
+	condition
+	price
+	item location
+
+6).bedroom & furniture sets->
+	material
+	style
+	brand
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+7).benches & stools->
+	room
+	type
+	material
+	color
+	style
+	brand
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	Item location
+
+8).bookcases->
+	material
+	type
+	features
+	brand
+	style
+	custom bundle
+	condition
+	price
+	Item location
+
+9).cabinets & cupboard->
+	room
+	type
+	style
+	brand
+	condition
+	material
+	features
+	custom bundle
+	modified item
+	price
+	item location
+
+10).CD & Video racks->
+	type
+	brand
+	color
+	material
+	features
+	condition
+	price
+	item location
+
+11).chairs->
+	type 
+	room
+	color
+	material
+	style
+	brand
+	features
+	condition
+	price
+	item location
+
+12).home offie furniture->
+	type
+	color
+	material
+	features
+	brand
+	style
+	condition
+	price
+	item location
+
+13).dinning furniture sets->
+	number of pieces
+	type
+	brand
+	style
+	shape
+	features
+	condition
+	price
+	item location
+
+14).dressers & chests of drawers->
+	room 
+	type
+	material
+	brand
+	style
+	features
+	custom bundle
+	condition
+	price
+	item location
+
+15).entertainment centers & TV stands->
+	room
+ 	type
+	material	
+	style
+	features
+	brand
+	custom bundle
+	modifiede item
+	condition
+	price
+	item location
+
+16).futons, frames & covers->
+	size
+	color
+	type
+	brand
+	material
+	features
+	condition
+	price
+	item location
+
+17).nightstands->
+	features
+	material
+	style
+	brand
+	custom bundle
+	condition
+	price
+	item location
+	
+18).Ottomans,footstools & poufs->
+	room
+	type
+	color
+	style
+	brand
+	material
+	feature
+	custom bundle
+	condition
+	price
+	item location
+
+19).furniture slipcovers ->
+	to cover
+	brand
+	color
+	material	
+	pattern
+	style
+	custom bundle
+	features
+	condition
+	price	
+	item location
+
+20).screens & room dividers->
+	maaterial
+	room
+	color
+	style
+	features
+	brand
+	condition
+	price
+	item location
+
+21).sofas , loveseats & chaises->
+	room
+	type	
+	brand
+	style
+	material
+	custom bundle
+	features
+	pattern
+	condition
+	price
+	item location
+
+22).table->
+	room
+	type
+	material
+	color
+	style
+	shape
+	features
+	brand
+	condition
+	price
+	item location
+
+
+
+
+

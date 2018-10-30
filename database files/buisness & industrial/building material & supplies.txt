@@ -1,0 +1,96 @@
+1).construction signage->
+	brand
+	condiion
+	price
+	item location
+
+2).doors & fixtures->
+	brand	
+	custom bundle
+	condition
+	price
+	Item location
+
+3).construction fastners & connectors->
+	brand
+	condition
+	price
+	item location
+
+4).Faucets & taps->
+	custom bundle
+	brnad
+	condition
+	price
+	item location
+
+5).building insulation->
+	brand
+	featured refinment
+	condition
+	price
+	item location
+
+6).lights & lightening->
+	brnad
+	custom bundle
+	condition
+	price
+	item location
+
+7).lamber & millwork material & supplies->
+	brand
+	modified item
+	condition
+	price
+	item loaction
+
+8).marble,tile & stone->
+	custom bundle
+	brnad
+	condition
+	price
+	item location
+
+9).moduler & pre-fabricated buildings->
+	featured refinment
+	custom bundle
+	brand
+	modified item
+	condition
+	Price
+
+10).industrial painting equipment & supplies->
+	brand
+	condition
+	price
+	item location
+
+11).industrial water heaters->
+	brand
+	condition	
+	price
+	item location
+
+12).constrauction windows & glass->
+	featured refinment
+	brand
+	modified item
+	condition
+	price
+	item location
+
+13).vintage construction equipment->
+	brand
+	condition
+	price
+	item location
+
+14).contractor guides & manuals->
+	Brand
+	custom bundle
+	modifed item
+	condition
+	price
+	item location
+15).

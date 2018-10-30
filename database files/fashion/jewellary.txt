@@ -1,0 +1,384 @@
+1).Fine diamond rings->
+	metal
+	secondary stone
+	total carot weight
+	style
+	ring size
+	clarity
+	occassion
+	main stone creation
+	main stone treatement
+	condition
+	price
+	item location
+
+2).fine gemstone rings->
+	metal
+	secondary stone
+	total carot weight
+	style
+	ring size
+	clarity
+	occassion
+	main stone creation
+	main stone treatement
+	main stone color
+	condition
+	price
+	item location
+
+3).fine pearl rings->
+	metal
+	secondary stone
+	total carot weight
+	style
+	ring size
+	clarity
+	occassion
+	main stone creation
+	main stone treatement
+	main stone color
+	condition
+	price
+	item location
+
+4).fine rings without sones->
+	metal
+	ring size
+	style
+	brand
+	condition
+	price
+	item location
+
+5).engagement rings->
+	metal
+	main stone
+	ring size
+	brand
+	certification
+	condition
+	price
+	item location
+
+6).engagament & wedding ring sets->
+	metal
+	main stone
+	ring size
+	type
+	brand style
+	engagement ring style
+	brand
+	condition
+	price
+	item location
+
+7).wedding & anniversary brand->
+	metal
+	ring size
+	main stone
+	gender
+	type	
+	condition
+	price
+	item location
+
+8).bridal & wedding part jewellary->
+	type
+	main stone
+	metal
+	certification
+	brand
+	protection plan
+	condition
+	price
+	item location
+
+9).fashion anklets->
+	color
+	metal
+	brand
+	matreila
+	secondary stone
+	condition
+	price
+	item location
+
+10).body jewellary->
+	metal
+	color
+	brand
+	material
+	main stone
+	condition
+	price
+	item location
+
+11).fashion bracelets->
+	style
+	color
+	metal
+	brand
+	material
+	main stone
+	theme
+	secondary stone
+	main sone creation
+	condition
+	price
+	item location
+
+12).fashion charm & charm bracelets->
+	type
+	brand
+	charm type
+	color
+	theme
+	metal
+	main stone
+	charm material
+	material
+	condition
+	price
+	item location
+
+13).women's collar tips->
+	brand
+	color
+	material
+	condition
+	price
+	item location
+
+14).fashion earings->
+	style
+	metal
+	color
+	main stone
+	fastening
+	brand
+	material
+	theme
+	secondary ston e
+	condition
+	price
+	item location
+
+15).fashion eyeglass chaiins & holders->
+	brand
+	material
+	metal
+	color
+	condition
+	price
+	item location
+
+16).fashion hair & head jewellary->
+	style
+	color
+	main stone
+	metal
+	material
+	brand
+	secondary stone
+	theme
+	condition
+	price
+	item location
+
+17).fashion jewellary sets->
+	color
+	metal
+	main stone
+	brand
+	secondary stone
+	material
+	main stone creation
+	condition
+	price
+	item location
+
+18).fashion necklaces & pendants->
+	style
+	color
+	metal
+	main stone
+	brand
+	material
+	theme
+	secondary stone
+	length
+	condition
+	price
+	item location
+
+19).fashion pins & brooches->
+	material
+	color
+	type
+	metal
+	brand
+	main stone
+	theme
+	condition
+	price
+	item location
+
+20).fashion rings->
+	ring size
+	metal
+	main stone
+	style
+	color
+	brand
+	secondary stone
+	theme
+	material
+	condition
+	price
+	item location
+
+21).shoe charms->
+	brand
+	condition
+	price
+	item location
+
+22).fashion toe rings->
+	color
+	main stone
+	brand
+	material
+	secondary stone
+	main stone creation
+	material
+	condition
+	price
+	item location
+
+23).fashion wristbands->
+	brand
+	color
+	material
+	condition
+	price
+	item location
+
+24).fashion jewellary mixed items & lots->
+	type
+	metal
+	main stone
+	color
+	material
+	brand
+	condition
+	price
+	item location
+
+25).fine anklets->
+	metal
+	main stone color
+	main stone
+	brand
+	secondary stone
+	protection plan
+	condition
+	price
+	item location
+
+26).fine bracelets->
+	metal
+	stylr
+	length
+	secondary stone
+	main stone
+	main stone creation
+	main stone traetement
+	condition
+	price
+	item location
+
+27).fine Charm & charm bracelets->
+	type
+	brand
+	charm type
+	color
+	theme
+	metal
+	main stone
+	charm material
+	material
+	condition
+	price
+	item location
+
+28).Fine earings->
+	style
+	metal
+	color
+	main stone
+	fastening
+	brand
+	material
+	theme
+	secondary ston e
+	condition
+	price
+	item location
+
+29).Fine jewellary sets->
+	color
+	metal
+	main stone
+	brand
+	secondary stone
+	material
+	main stone creation
+	condition
+	price
+	item location
+
+30).Fine necklaces & pendants->
+	style
+	color
+	metal
+	main stone
+	brand
+	material
+	theme
+	secondary stone
+	length
+	condition
+	price
+	item location
+
+31).Fine gemstone rings->
+	metal
+	main stone
+	ring size
+	secondary stone
+	main stone creation
+	style
+	main stone color
+	occassion
+	total carat weight
+	condition
+	price
+	item location
+
+32).men's jewellary->
+	metal
+	color
+	main stone
+	material
+	brand
+	condition
+	price
+	item location
+
+33).vintage & antique jewelary->
+	condition
+	price
+	item location
+
+34).

@@ -1,0 +1,36 @@
+1).buiding & hardware supplies->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).electrical & solar supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+3).home HVAC Appliances ,parts & accessories->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+4).home security equipment->
+	brand
+	condition
+	price
+	item location
+
+5).home plumbing & fixtures->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location

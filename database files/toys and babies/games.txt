@@ -1,0 +1,73 @@
+1).board & traditional games->
+	game type
+	theme
+	brand
+	title
+	age level
+	custom bundle
+	modified item
+	price
+	item location
+
+2).card games & pocker->
+	title
+	theme
+	brand
+	custom bundle
+	modifed item
+	condition
+	price
+	item location
+
+3).electronic->
+	brand
+	year
+	type
+	title
+	custom bundle
+	age level
+	modified item
+	condition
+	price
+	item location
+
+4).game pieces & arts->
+	title
+	game type
+	brand
+	type
+	material
+	year
+	color
+	custom bundle
+	price 	
+	item location
+
+5).game pieces & arts->
+	title
+	game type
+	brand
+	type
+	material
+	year
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+6).miniatures & war games->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+7).role playing games->
+	brand
+	character family
+	custom bundle
+	condition
+	price		
+	item location
+

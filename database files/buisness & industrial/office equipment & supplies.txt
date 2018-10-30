@@ -1,0 +1,52 @@
+1).microfilm & microfiche ->
+	brand
+	condition
+	price
+	item location
+
+2).office equipment ->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+3).office furniture->
+	brand
+	condition
+	price
+	item location
+
+4).ofice supplies->
+	brand
+	condition
+	price
+	item location
+
+5).office wholesale lots->
+	brand
+	condition
+	price
+	item locaion
+
+6).projectors & presentation equipment->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+7).telecom system->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+8).trade show displays->
+	custom bundle
+	brand
+	condition
+	price
+	item location

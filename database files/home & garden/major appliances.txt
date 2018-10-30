@@ -1,0 +1,105 @@
+1).cooktops->
+	fuel type
+	brand
+	surface
+	features
+	condition
+	price
+	item location
+
+2).diswashers->
+	brand
+	type
+	condition
+	price
+	item location
+	
+3).dryers->
+	brand
+	modified item
+	custom bundle
+	condition
+	price
+	item location
+
+4).freezers->
+	type
+	brand
+	condition
+	price
+	item location
+
+5).microwave ovens->
+	type
+	brand
+	features
+	finish
+	power
+	color
+	matrial
+	condition
+	price
+	item location
+
+6).wall ovens->
+	brand
+	fuel type
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+7).home apliences->
+	brand
+	condition
+	price
+	item loaction
+	
+8).range hoods->
+	brand
+	hood width
+	design
+	finish
+	material
+	condition
+	price
+	item location
+
+9).ranges & stoves->
+	brand
+	fuel type
+	width
+	surface
+	features
+	type
+	condition
+	price
+	item location
+
+10).refrigerators->
+	brand
+	type
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+11).washer dryer combnations & sets->
+	brand
+	load type
+	washer size
+	installation
+	wash progrmas
+	condition
+	price
+	item location
+
+12).washing machines->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location

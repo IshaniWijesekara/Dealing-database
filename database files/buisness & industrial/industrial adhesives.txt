@@ -1,0 +1,34 @@
+1).industrial adhesives,sealants & tapes->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).industrial adhesive tapes ->
+	brand
+	condition
+	price
+	item location
+
+3).industrial glue, expoxies & cementers->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).industrial caulks,sealants & removers->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).industrial adhesive guns & dispensers->
+	brand
+	condition
+	price
+	item location
+	

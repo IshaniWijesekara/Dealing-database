@@ -1,0 +1,112 @@
+1).tennis & racquet sport apperal & accessories->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).tennis & racquet sports clothing->
+	brand
+	gender
+	size
+	material
+	color
+	condition
+	price
+	item location
+
+3).tennis & rocquet sport protective gear->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).tennis & racquet sport shoes->
+	size
+	gender
+	brand
+	color
+	width
+	comdition
+	price
+	item location
+
+5).badminton equipments->
+	brand
+	condition
+	price
+	item location
+
+6).racquetball equipments->
+	brand
+	custom bundle
+	featured refinements
+	condition
+	price
+	item location
+
+7).squash equipments->
+	brand
+	condition
+	price
+	item location
+
+8).Tennis->
+	brand
+	custom bundle	
+	condition
+	price
+	item location
+
+9).tennis bags->
+	brand
+	featured refinements
+	Condition
+	price
+	buying formats
+	item location
+
+10).tennis balls->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+11).tennis grips->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+12).tennis rqcquets->
+	brand
+	custom bundle
+	condition
+	price
+	item locaion
+
+13).tennis racquet covers->
+	brand
+	custom bundle
+	modified item	
+	condition
+	price'
+	item location
+
+14).tennis racquet strings->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+15).tennis traning aids->
+	brand
+	custom bundle	
+	condition	
+	price
+	item location
+

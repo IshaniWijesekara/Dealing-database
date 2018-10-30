@@ -1,0 +1,42 @@
+1).handpieces & instruments->
+	brand
+	intended use
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).medical & lab equipments,devices->
+	brand
+	intended use
+	custom bundle
+	condition	
+	price
+	item location
+
+3).medical/lab equipments attachment & accessories->
+	brand
+	intended use
+	custom bundle
+	condition
+	price
+	item location
+
+4).medical/lab & dental supplies->
+	brand
+	intended use
+	custom bundle
+	condition
+	price
+	item location
+
+5).medical/lab & caregiving furniture->
+	brand
+	MODIFIED ITEM
+	intended use
+	custom bundle
+	condition
+	price
+	item location
+

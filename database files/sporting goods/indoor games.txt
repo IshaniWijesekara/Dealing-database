@@ -1,0 +1,58 @@
+1).air hocky equipment->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+2).billiards->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+3).billiard balls->
+	brand
+	custom bundle
+	modfied item,
+	condition
+	price
+	item location
+
+4).complete billiards balls sets->	
+	brand
+	featured refinements
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).cue balls->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+6).Football equipment->
+	custom bundle
+	brand
+	Condition
+	price
+	item location
+
+7).Table tennis equipments->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+8).shuffleboards equipment->
+	brand
+	condition
+	price
+	item location
+

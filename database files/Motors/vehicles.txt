@@ -1,0 +1,29 @@
+1).boats=->
+	condition
+	price
+	item location
+
+2).car & trucks->
+	brand
+	vehicle mileage
+	transmission
+	exterior color
+	engine color
+	engine size
+	fuel size
+	condition
+	price
+	item location
+
+3).Motorcycles->
+	brand
+	vehicle mileage
+	transmission
+	exterior color
+	engine color
+	engine size
+	fuel size
+	condition
+	price
+	item location
+

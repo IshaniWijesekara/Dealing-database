@@ -1,0 +1,84 @@
+1).12 -volt portable appliences in consumes->
+	type
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+
+2).car alarms & security in consumer electronics->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+3).car audio->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).car audio & video installation equipment->
+	brand	
+	material
+	condition
+	price
+	item location
+
+5).car electronic accessories->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+6).car video->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+
+7).GPS Accessories->
+	brand
+	condition
+	price
+	item location
+
+8).car GPS Units->
+	features
+	brand
+	screen size
+	type
+	custom bundle
+	model	
+	modified item
+	condition
+	price
+	item location
+
+9).Marine audio->
+	type 	
+	brand
+	features
+	RMS Powers
+	custom bundle
+	condition
+	price
+	item location
+
+10).car radar & laser detectors->
+	brand	
+	detection
+	alert type
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+

@@ -1,0 +1,45 @@
+1).industrial automation & control equipment ->
+	brand
+	condition
+	price
+	item location
+
+2).control systems & PLCs ->
+	brand
+	condition
+	price
+	item location
+
+3).drivers & starters ->
+	brand
+	condition
+	price
+	Item location
+
+4).industrial electronic motors->
+	nominal rated input voltage
+	brand
+	condition
+	price
+	item location
+
+5).industrial robotic arms->
+	brand
+	type
+	condition
+	price
+	itm location
+
+6).industrial mechanical power transmission ->
+	brand
+	condition
+	price
+	item location
+
+7).rotary & linear motion->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+

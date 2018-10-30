@@ -1,0 +1,683 @@
+1).Bar soaps->
+	brand
+	size type
+	scent
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).Bath oils->
+	brand
+	size type
+	scent
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).bath brushes & sponges->	
+	type
+	brand
+	features
+	size type
+	condition
+	price
+	item location
+
+4).bath salts->
+	brand
+	size type
+	scent
+	features
+	custom bundle
+	price
+	item location
+
+5).bath sets & kits->
+	brand
+	gender
+	size type
+	scent
+	custom bundle
+	condition
+	price
+	item location
+
+6).body lotions & moistures->
+	formulation
+	brand
+	gender
+	size type
+	scent
+	main ingrediants
+	custom bundle
+`	age group
+`	condition
+	price
+	item location
+7).body powder->
+	brand
+	size type
+	scent
+	custom bundle
+	condition
+	price
+	item location
+
+8).body scrubs & Exfoliants->
+	brand
+	size type
+	scent
+	gender
+	custom bundle
+`	age group
+`	condition
+	price
+	item location
+
+9).body sprays & mists->
+	brand
+	gender
+	size type
+	scent
+	custom bundle
+`	condition
+	price
+	item location
+
+10).body washes & shower gels->
+	gender'	
+	brand
+	formulation
+	size type
+	scent
+	age group
+	custom bundle
+`	condition
+	price
+	item location
+
+11).deodrants & antiperspirants->
+	formulation
+	type
+	gender
+	brand
+	size type
+	scent
+	custom bundle
+`	condition
+	price
+	item location
+
+12).Hand washes->
+	brand
+	formulation
+	scent
+	size type
+	main ingrediants
+	custom bundle
+`	condition
+	price
+	item location
+
+13).shower caps->
+	material
+	feature
+	type
+	size type
+	custom bundle
+`	condition
+	price
+	item location
+
+14).Fragrances for children->
+	brand
+	fragrance name
+	fragrance type
+	size
+	custom bundle
+`	condition
+	price
+	item location
+
+15).fragrance for men->
+	fragrance type
+	brand
+	size
+	formulation
+	fragrance name
+	custom bundle
+`	condition
+	price
+	item location
+
+16).fragrance for women->
+	fragrance type
+	brand
+	size
+	fragrance name
+	formulation
+	vintage scent
+	custom bundle
+`	condition
+	price
+	item location
+
+17).unisex fragrances->
+	fragrance type
+	brand
+	size
+	fragrance name
+	formulation
+	vintage scent
+	custom bundle
+`	condition
+	price
+	item location
+
+18).Hair brushes & combs->	
+	type
+	material
+	brand
+	gender	
+	hair type	
+	color
+	features
+	age group
+	custom bundle
+`	condition
+	price
+	item location
+
+19).hair color products->
+	type
+	brand
+	shade
+	formulation
+	gender
+	features
+	custom bundle
+`	condition
+	price
+	item location
+
+20).hair dryers->
+	brand
+	type
+	color
+	features
+	gender
+	hair type
+	age group
+	wattage
+	custom bundle
+`	condition
+	price
+	item location
+
+21).hair extension & wigs->
+	age group
+	gender
+	color
+	brand
+	custom bundle
+`	condition
+	price
+	item location
+
+22).hair loss treatements->
+	gender
+	formulation
+	brand
+	type
+	hair type
+	shade
+	geatures
+	age group
+	custom bundle
+`	condition
+	price
+	item location
+
+23).hair ties & styling accessoriezs->
+	type
+	gender
+	brand
+	hair type
+	material
+	color
+	age group
+	custom bundle
+`	condition
+	price
+	item location
+
+24).medicated hair treatements->
+	brand
+	type
+	hair type
+	formulation
+	features
+	age group
+	gender
+`	condition
+	price
+	item location
+
+25).hair perms->
+	type
+	brand
+	hair type
+	gender
+	age group
+	custom bundle
+`	condition
+	price
+	item location
+
+26).hair relaxers & straigtening products->
+	brand
+	formulation
+	gender
+	hair type
+	type
+	type
+	faetures
+	age group
+	custom bundle
+`	condition
+	price
+	item location
+
+27).hair rollers & curlers->
+	type
+	brand
+	gender
+	color
+	age group
+	custom bundle
+`	condition
+	price
+	item location
+
+28).shampoos & conditioners->
+	type	
+	brand
+	hair type
+	gender
+	features
+	age group
+	styling effect
+	size type
+	custom bundle
+`	condition
+	price
+	item location
+
+29).straightening & curlin irons->
+	brand
+	type
+	material
+	width
+	features
+	color
+	hair type
+	max temperature
+	custom bundle
+`	condition
+	price
+	item location
+
+30).hair styling producst->
+	formulation
+	brand
+	gender
+	hair type
+	styling effects
+	hold strength
+	type
+	age group
+	features
+`	condition
+	price
+	item location
+
+31).hair treatements ,oils & heat protectors->
+	gender
+	brand
+	hair type
+	type
+	features
+	age group
+	size type
+	custom bundle
+	condition
+	price
+	item location
+
+32).hair dryers->
+	brand
+	type
+	color
+	features
+	gender
+	hair type
+	age group
+	wattage
+	custom bundle
+	condition
+	price
+	item location
+
+33).body makeup products->
+	type
+	brand
+	formulation
+	effect
+	shade
+	features
+	size
+	condition
+	price 
+	item location
+
+34).eye makeup->
+	brand
+	shade
+	formulation
+	type
+	size
+	features
+	custom bundle
+	condition
+	price
+	item location
+
+35).eyebrow definition & liners->
+	brand
+	shade
+	formulation
+	type
+	features
+	size
+	effect
+	custom bundle
+	size type
+	condition
+	price
+	item location
+
+36).eyeliners->
+	shade
+	formulation
+	brand
+	features
+	effect'	
+	size
+	custom bundle
+	size type
+	condition
+	price
+	item location
+
+37).eyshadows->
+	brand
+	type
+	effect
+	formulation
+	shade
+	size
+	features
+	custom bundle
+	sizetype
+	condiion
+	price
+	item location
+
+38).eyeshadow primer->
+	brand
+	size
+	formulation
+	shade
+	fatures
+	effect
+	custom bundle
+	type
+	size type
+	condition
+	price
+	item location
+
+39).eyeshadow & eyeliner combination->
+	type
+	brand
+	size
+	formulation
+	shade
+	effect
+	features
+	condition
+	price
+	item location
+
+40).false eyelashes & adhesive->
+	length
+	brand
+	shade
+	type
+	effect'
+	features
+	custom bundle
+	size type
+	condition
+	price
+	item location
+
+41).eyelash growth & conditioner->
+	brand
+	formulation
+	type
+	features
+	custom bundle
+	size type
+	condition
+	price
+	item location
+
+42).mascara->
+	shade
+	brand
+	size
+	features
+	effect
+	custom bundle
+	size type
+	condition
+	price
+	item location
+
+
+43).cutical treatment->
+	formultion
+	brand
+	type
+	custom bundle
+	condition
+	price
+	item location
+
+44).electrric nail files & tools->
+	type
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+45).gel nail polish->
+	brand
+	effect
+	type	
+	color
+	custom bundle
+	price
+	item location
+
+46).hand & nail treatement creams->
+	formulation
+	type
+	custom bundle
+	condition
+	price
+	item location
+
+47).manicure & pedicure tools & kits->
+	type
+	brand
+	material
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+48).Nail art accessories->
+	type
+	brand
+	material
+	color
+	sticker type
+	effect
+	custom bundle
+	condition
+	price
+	item location
+
+49).nail polish->
+	type
+	brand
+	effect
+	color
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+50).nail polish remover->
+	type
+	brand	
+	formulation
+	custom bundler
+	condition
+	price
+	item location
+
+51).backwash units & shampoo bowls->
+	type
+	color
+	brand
+	custom bundler
+	condition
+	price
+	item location
+
+52).hair & makeup mannequins->
+	type
+	brand
+	custom bundler
+	condition
+	price
+	item location
+
+53).salon & spa magnifying lamps->
+	type	
+	magnifying strength
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+54).salon chairs & dryers->
+	type	
+	brand
+	color
+	features
+	condition
+	price
+	item location
+
+55).salon scissors & shears->
+	type
+	features
+	length
+	color
+	brand
+	custom bundle
+	price
+	item location
+
+56).salon & spa sterilizer & towel warmer->
+	type
+	brand
+	custom bundle
+	color
+	condition
+	price
+	item location
+
+57).salon & spa supplies->
+	type
+	brand
+	condition
+	price
+	item location
+
+58).shaving & hair remover->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+59).skin care products->
+	brand
+	gender
+	skin type
+	features
+	custom bundle
+	size
+	size type	
+	condition
+	price
+	item location
+
+60).sun protection & tanning products->
+	brand
+	gender
+	custom bundle
+	condition
+	price
+	item location
+
+61).tattoos & body art products->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+
+		
+	
+	
+	
+
+	
+	
+	

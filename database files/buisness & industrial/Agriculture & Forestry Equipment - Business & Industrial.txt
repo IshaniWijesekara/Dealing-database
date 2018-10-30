@@ -1,0 +1,110 @@
+1).agriculture & forestry equipment ->
+	brand
+	condition
+	price
+	item location
+
+2).forestry equipment & supplies->
+	brand
+	condition
+	price
+	item location
+
+3).forestry equipment ->
+	brand
+	condition
+	price
+	item location
+
+4).forestry supplies & tools->
+	custom bundle
+	brand
+	featured refinment
+	condition
+	price
+	item location
+
+5).agriculture & forestry gps & guidance equipment ->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+6).livestock animal feed->
+	brand
+	custom bundle
+	condition
+	price
+	Item location
+
+7).animal health & veterinary supplies->
+	brand
+	custom bunlde
+	price
+	item location
+
+8).beekeeping supplies->
+	type
+	custom bundle
+	brand
+	condition
+	price	
+	item location
+
+9).beef cattle supplies->
+	brand
+	condition
+	price
+	item location
+
+10).diary cattle supples->
+	brand
+	Custom bundle
+	featured refinment
+	modified item
+	condition
+	price
+	item location
+
+11).horse lifestock supplies->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+12).lifestock fencing supplies->
+	type
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+13).pig/hog supplies->
+	brand
+	condition
+	price
+	item location
+
+14).poultry supplies->	
+	poultry type
+	type	
+	custom bundle
+	modified item
+	featured refinement
+	brand
+	condition
+	price
+	item location
+
+15).sheep & goat supplies->
+	brand
+	condition
+	price
+	item location
+

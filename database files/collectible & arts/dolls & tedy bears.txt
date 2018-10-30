@@ -1,0 +1,42 @@
+1).bear making supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+2).bears->	
+	size
+	features
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).dallhouse material->
+	scale
+	material
+	brand
+	features
+	custom bundle
+	condition
+	price
+	item location
+
+4).dolls->
+	doll size
+	features
+	brand
+	material
+	custom bundle
+	condition
+	price
+	item location
+
+5).paper dolls->
+	custom bundle
+	condition
+	price
+	item location
+

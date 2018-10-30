@@ -1,0 +1,140 @@
+1).circuit breakers & disconnectors->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).contactors->
+	brand
+	custom bundle	
+	modified item
+	condition
+	price
+	item location
+
+3).electrical boxes,panels & boards->
+	brand
+	material
+	custom bundle
+	condition
+	price
+	item location
+
+4).electrical plugs,outlets & covers->
+	brand
+	number of poles
+	custom bundle
+	color
+	material	
+	mounting style
+	condition
+	price
+	item location
+
+5).electrical tools->
+	brand
+	condition
+	price
+	item location
+
+6).electrical usage meter->
+	brand
+	features
+	meter type
+	current type
+	display type
+	nominal current reading
+	nominal voltage reading
+	condition
+	price
+	item location
+
+7).electronic components & semiconductors->
+	brand
+	condition
+	price
+	item location
+
+8).industrial fuses->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+9).phase conductors->
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+10).industrail power supplies->
+	brand
+	nominal input voltage	
+	nominal output voltage
+	nominal current rating
+	nominal power rating
+	condition
+	price
+	item location
+11).relays->	
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+12).componenet sensors->
+	brand
+	condition
+	price
+	item location
+
+13).machinary signals and indicators->
+	brand
+	condition
+	price
+	item location
+
+14).industrial switchers->
+	brand
+	switch action
+	custom bundle
+	modified item
+	price
+	item location
+
+15).power transformers
+	brand
+	current rating
+	voltage rating
+	nominal current rating
+	nominal power rating
+	minimum operating frequency
+	maximun operating frequency
+	condition
+	price
+	item location
+
+16).wire,cable & conduit->
+	brand
+	conductor material
+	condition
+	price
+	item location
+
+17).wire & cable connectors->	
+	gender
+	brand
+	body material
+	contact material
+	compatible mounting type
+	condition 
+	price	
+	item location
+
+
+	

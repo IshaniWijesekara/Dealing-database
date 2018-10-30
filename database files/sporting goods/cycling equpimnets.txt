@@ -1,0 +1,114 @@
+-----------------------------Bikes------------------------------
+ 1).Electric Bikes->
+	type,
+	wheel size,
+	brand,
+	gender,
+	frame material,
+	color,
+	condition,
+	price,
+	item location
+
+
+2).bike frames->
+	type,
+	wheel size,
+	brand,
+	gender,
+	frame material,
+	color,
+	condition,
+	price,
+	item location
+
+3).Bikes->
+	type,
+	wheel size,
+	brand,
+	gender,
+	frame material,
+	color,
+	condition,
+	price,
+	item location
+
+4?).Bicycle Tires , Tubes & wheels->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+5).Bicycle Assessories->
+	brand,
+	condition	
+	price
+	item location
+
+6).Bike Components and parts->
+	brand,
+	condition	
+	price
+	item location
+
+7).Bike electronics->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+8).Bike maintainance & tools->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+9).Bicycle maintainance books & videos->
+	format
+	modified item
+	condition
+	price
+	item location
+
+10).Car & Truck Bicycle Racks->
+	type,
+	brand,
+	bike capacity,
+	rack carrier type,
+	custome bundle
+	condition	
+	price
+	item location
+
+11).Cycling clothing->
+	size
+	gender
+	brand
+	color
+	material
+	custom bundle
+	condition
+	price
+	item location
+	
+12).Cycling shoes & shoe cover->
+	brand
+	style
+	color
+	Condition
+	price
+
+13).Cycling helmets & protective gear->
+	type
+	frame material
+	wheel size
+	brand
+	frame size
+	gender
+	color
+	condition
+	price
+	item location
+

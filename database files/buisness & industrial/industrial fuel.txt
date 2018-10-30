@@ -1,0 +1,45 @@
+1).alternative fuel & energy equipment->
+	brand
+	condition
+	price
+	item location
+
+2).biodiesel equipment->
+	brand
+	condition
+	price
+	item location
+
+3).hydrogen power equipment->
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+4).industrial solar power equipments->
+	brand
+	condition
+	price
+	item location
+
+5).wind power equipment->
+	brand
+	condition
+	price
+	item location
+
+6).oil & gas->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+7).power & utiliies->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+

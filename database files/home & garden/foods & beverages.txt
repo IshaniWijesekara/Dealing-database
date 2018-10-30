@@ -1,0 +1,143 @@
+1).alchol & alcohol mixtures->
+	brand
+	condition
+	price
+	item location
+
+2).baking chips->
+	food specification
+	flavour
+	brand
+	modified item
+	condition
+	price
+	item location
+
+3).baking choclates->
+	food specification
+	brand
+	flavor
+	format
+	modified item
+	condition
+	price
+	item location
+
+4).baking mixes->
+	food specification
+	type
+	brand
+	condition
+	price
+	item location
+
+5).beef ,buffalo & turkey jerky->
+	food specification
+	brand
+	modified item
+	condition
+	price
+	item location
+
+6).beer & wine making supplies->
+	type
+	modified item
+	brand
+	condition
+	price
+	item location
+	
+
+7).bread->
+	food specification
+	type
+	brand
+	price
+	item location
+
+8).candy,gum & choclates->
+	food specificatiom
+	brand
+	flavour
+	occassion
+	packaging
+	modified item
+	condition
+	price
+	item location
+
+9).cerels &breakfast foods->
+	food specification
+	type
+	condition
+	price
+	item location
+
+10).cheese->
+	brand
+	cheese type
+	product type
+	condition
+	price
+	item location
+
+11).coconut water->	
+	food specification
+	brand
+	modified item
+	condition
+	price
+	item location
+
+12).coffee->
+	brand
+	food specification
+	modified item
+	condition
+	price
+	item location
+
+13).coffee & soda syrups->
+	food specification
+	type
+	brand
+	flavor
+	modified item
+	condition
+	price
+	item location
+
+14).condiments->
+	food specification
+	brand
+	modified item
+	condition
+	price
+	item location
+
+15).cookies & biscotti->
+	brand
+	food specification
+	product type
+	condition
+	price
+	item location
+
+16).cooking oils->
+	food specification
+	brand
+	featured refinments
+	modified item
+	condition
+	price
+	item location
+
+17).desserts->
+	food specification
+	brand
+	type
+	modified item
+	condition
+	price
+	item location
+

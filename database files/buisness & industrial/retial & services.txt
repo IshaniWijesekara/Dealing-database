@@ -1,0 +1,16 @@
+1).business signs->
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).dry cleaning & laundromat equipment->
+	brand	
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).

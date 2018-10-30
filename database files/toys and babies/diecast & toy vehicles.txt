@@ -1,0 +1,155 @@
+1).Diecast & toy vehicle accessories, parts & display->
+	scale
+	brand
+	condition
+	price
+	item location
+
+2).aircraft->
+	material
+	brand	
+	vehicle year
+	vehicle type
+	scale
+	vehicle make
+	color
+	features
+	condition
+	price
+	item location
+
+3).boats & ship->
+	brand
+	Scale
+	vehicle type
+	vehicle year
+	material
+	color
+	year of manufacture
+	condition
+	price
+	item location
+
+4).cars,trucks & vans->
+	brand
+	scale
+	vehicle make
+	veicle type
+	vehicle year
+	material
+	color
+	features
+	series
+	condition
+	price
+	item location
+
+5).cars & racing cars->
+	scale
+	brand
+	vehicle type
+	vehicle year
+	vehicle make
+	driver
+	material
+	feaures
+	organization
+	condition
+	price
+	item location
+
+6).Collections & lots->
+	brand
+	scale
+	vehicle tpe
+	features
+	material
+	color
+	series
+	condition
+	price
+	item location
+
+7).construction equipment->
+	scale
+	brand
+	VEHICLE TYPE
+	color
+	vehicle year
+	vehicle make
+	material
+	year of manufacture
+	features
+	condition
+	price
+	item locatiomn
+
+8).Farm Vehicle->
+	scale
+	vehicle make
+	vehicle type
+	brand	
+	vehicle year
+	color
+	year of manufacture
+	custom bundle
+	modified item
+	condition
+	price	
+	Item location
+
+9).Motorcycles & ATVs->
+	brand
+	scale
+	vehicle make
+	vehicle type
+	material
+	color
+	condition
+	price
+	item location
+
+10).play sets->
+	brand
+	Vehicle type
+	year of manufacture
+	vehicle year
+	color
+	material
+	scale
+	features
+	series
+	condition
+	price
+	item location
+
+11).price guides & publications->
+	brand
+	type
+	modified item
+	condition
+	price
+	item location
+
+12).tanks & millitary vehicle0>
+	scale	
+	brand
+	type
+	vehicle year
+	material
+	condition
+	price 
+	item location
+
+13).vehicle banks->	
+	brand
+	scale
+	vehicle make
+	vehicle type
+	vehicle year
+	color
+	faetures	
+	condition
+	price
+	item location
+

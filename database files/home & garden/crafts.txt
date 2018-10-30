@@ -1,0 +1,113 @@
+w1).art supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).beads & jewellary making supplies->
+	custom bundle
+	brand
+	Condition
+	price
+	item location
+
+3).Craft Glass & Mosaics->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+4).Craft stamping & embossing supplies->
+	custom bundle
+	brand
+	condition
+	price	
+	item location
+
+5).Crafts wholesale lots->
+	brand
+	condition
+	price
+	item location
+
+6).fabric embellishment wholesale lots->
+	modified item
+	condition
+	price
+	item location
+
+7).fabric painting & decorating supplies->
+	custom bundle
+	brand
+	condition
+	price
+	Item location
+
+8).handcrafted & finished pieces->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+9).home arts & crafts->
+	brand
+	condition
+	price
+	item location
+
+10).kids crafts->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+11).leathercraft tools & supplies->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+12).multi-purpose craft supplies->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+13).scrapbooking & paper craft supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+14).sculpting ,molding & ceramics craft supplies->
+	brand	
+	custom bundle
+	condition
+	price
+	item location
+
+15).sewing tools & supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+16).yarn, sewing & needlecraft supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+
+
+	
+	

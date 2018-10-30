@@ -1,0 +1,275 @@
+****************************Boxing and MMA Equipments********************
+
+1).Boxing and MMA Equipments->
+	brand,
+	custom bundle,
+	modified item,
+	condition,
+	price,	
+	item location
+
+2).Boxing & Material Arts Apperal & Accessories->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+3).boxing & martial arts belts & sashes->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+4).boxing & martial arts belt displays->
+	suitable for,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+5).boxing & martial arts headbands & hats->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+6).boxing & martial arts hoodies & sweatshirts->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+7).martial arts pants->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+8).boxing & materail arts jackets->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+9).boxing & material arts patches->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+10).boxing & martial arts robes->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+11).boxing & martial arts shirts->
+	brand,
+	suitable for,
+	color,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+12).boxing & MMA Shoes & Footwear->
+	gender,
+	color,
+	suitable for,
+	brand,
+	custom bundle,
+	modified item,
+	condition.
+	price,
+	item location
+
+13).Boxing & martial arts shorts->
+	size,
+	suitable for,
+	gender,
+	color,
+	brand,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	Item location
+
+14).martial arts uniform & Gis->
+	color,
+	suitable for,
+	gender,
+	brand,
+	size,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+
+
+
+15).boxing and martial Arts DVD'S,videos,& books->
+	condition,
+	price,
+	item location
+
+16).boxing gloves->
+	gender,
+	brand,
+	color,
+	weight,
+	size,
+	custom bundle,
+	modified item,
+	featured refinments,
+	condition,	
+	price,
+	item location
+
+17).martial arts gloves->
+	brand,
+	size,
+	color,
+	gender,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+18).martial arts knives>
+	brand,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+19).martial arts sticks->
+	brand,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+20).martial arts swords->
+	brand,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+21).boxing & protective gears->
+	brand
+	size	
+	color
+	gender
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+22).boxing & martial arts protective chest guards->
+	brand,
+	size,
+	color,
+
+
+23).boxing and martial arts elbow,knee & ankle guards->
+	brand,
+	size,
+	color,
+	gender,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+24).boxing & Material arts groin protectors->
+	brand,
+	size,
+	color,
+	gender,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+25).boxing & martial arts protective hand wraps->
+	brand,
+	size,
+	color,
+	gender,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+26).boxing & MMA Protective head gear->
+	brand,
+	size,
+	color,
+	gender,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+
+27).boxing & martial arts mouth guards->
+	brand,
+	size,
+	color,
+	gender,
+	custom bundle,
+	modified item,
+	condition,
+	price,
+	item location
+
+28).
+	
+	

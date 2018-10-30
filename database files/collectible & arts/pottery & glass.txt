@@ -1,0 +1,17 @@
+1).glass->
+	color
+	object type	
+	type of glass
+	original/reproduction
+	glassmaking technique
+	style
+	condition
+	price
+	item location
+
+2).pottery & china->
+	color
+	original/reproduction
+	condition
+	price
+	item location

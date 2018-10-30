@@ -1,0 +1,55 @@
+1).Commercial bar & beverage equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).Commercial kitchen equipments->
+	brand
+	condition
+	price
+	item location
+
+3).food trucks ,trailers ,carts & concession stands->
+	brand
+	custom bundle
+	condition
+	price 
+	item location
+
+4).Resturent & catering tabletop & serving equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+5).resturent & catering wholesale lots->
+	brand
+	condition
+	price
+	tem location
+
+6).resturant furnitire , signs & decor ->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+7).resturent uniforms & aprons->
+	brand	
+	custom bundle
+	condition
+	price
+	item location
+
+8).vending & tabletop concessions->	
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+

@@ -1,0 +1,83 @@
+1).baseball & softball equipments->
+	brand
+	custom bundle
+	condition
+	price
+	Item location
+
+2).basketball equipments->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+3).bowling equipments->	
+	brand
+	price
+	buying format
+	item location
+
+4).cheerleading euipments->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).cricket equipments->
+	brand
+	Custom bundle
+	modified item
+	condition
+	price
+	item location
+
+6).field hockey equipments->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+7).football equipments->
+	custom bundle
+	brand
+	modified item
+	condition 
+	price
+	item location
+
+8).gymnastic equipments->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+9).rugby equipments->
+	brand
+	condition
+	price
+	item location
+
+10).soccer equipments->
+	brand
+	condition
+	price
+	item location
+
+11).volleyball equipments->
+	brand
+	condition
+	price
+	item location
+
+12).wrestling equipments->
+	brand 
+	custom bundle
+	modified item
+	condition
+	price
+	item location

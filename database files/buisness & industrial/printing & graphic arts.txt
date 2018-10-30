@@ -1,0 +1,69 @@
+1).bindery & finishing equipments->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).commercial printing  essentials->
+	brand
+	condition
+	price
+	item location
+
+3).commercial printing presses->
+	custom bundle
+	modified item
+	brand
+	condition
+	price
+
+4).commercial screen & speciality printing equipment ->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+5).direct mail equipment->
+	custom bundle
+	condition
+	price
+	item location
+
+6).ploters & wide format printers->
+	brand
+	product
+	custom bundle
+	modified item
+	condition
+	price
+7).prepress printing equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+8).printing & graphics essentials->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+9).printing link,plates & film->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+10).sign making supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+

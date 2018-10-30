@@ -1,0 +1,167 @@
+1).breakers & demolition hammers->
+	power source
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).concrete stamps forms & mats->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).concreate vibrators->
+	type
+	brand
+	condition
+	price
+	item location
+
+4).drywall tools->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).grinders->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+6).industrial air tools->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+7).industrial drills & hammers->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+8).industrial generator parts & accessories->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+9).industrial generators->
+	power source
+	brand
+	max output
+	type
+	phase
+	condition
+	price
+	item location
+
+10).industrial hand tools->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+11).industrial heat guns->
+	brand
+	custom bundle	
+	condition
+	price
+	item location
+
+12).industrial light saws->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+13).industrial powder actuated tools->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+14).industrial routers->
+	custom bundle
+	brand
+	condition
+	price	
+	item location
+
+15).industrial sanders->
+	brand
+	custom bundle
+	condition
+	price	
+	item location
+
+16).industrial stationary engines,parts & accessories->
+	brand
+	condition
+	price
+	item location
+
+17).industrial tool batteries & charges->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+18).industrial tool combo kits->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+19).industrial tooling storage & cabinets->
+	brand
+	type
+	condition
+	price
+	item location
+
+20).industrial transfer switches->
+	brand
+	type
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+21).mortar & concrete mixers->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+22).pipe tools->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+	

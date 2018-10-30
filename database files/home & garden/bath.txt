@@ -1,0 +1,183 @@
+1).bath accessory sets->
+	color
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).bath caddies & bathroom storage equipment->
+	material
+	brand
+	type
+	mounting
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+3).bathmats,rugs & toilet covers->
+	type
+	color
+	material
+	shape
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+4).medicine cabinets->
+	color
+	mount type
+	brand
+	features
+	condition
+	price
+	item location
+
+5).bathroom mirrors->
+	frame material
+	type
+	features
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+6).non-slip bathroom appliques & mats->
+	type
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+7).bathroom scales->
+	brand
+	material
+	color
+	type
+	custom bundle
+	protection plan
+	condition
+	price
+	item location
+
+8).Bathroom shelves->
+	material
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+9).shower curtains->
+	type
+	color
+	pattern
+	style
+	features
+	custom bundle
+	material
+	set includes
+	brand
+	condition	
+	price
+	item location
+
+10).shower curtain hooks->
+	color
+	material
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+11).bathroom soap dishes & dispensers->
+	type
+	material
+	brand
+	color
+	installation
+	condition
+	price
+	item location
+
+12).tissue box covers->
+	material
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+13).toilet brushes & sets->
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+14).toilet paper storage & covers->
+	brand
+	material
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+15).tooth brsh holders->
+	material
+	type
+	color
+	brand
+	condition
+	price
+	item location
+
+16).bath towels & washcloths->
+	type
+	material
+	room
+	set includes	
+	color
+	brand
+	pattern
+	condition
+	price
+	item location
+
+17).bathroom tumblers->
+	brand
+	color
+	material
+	condition
+	price
+	item location
+
+18).wall hooks & hangers->
+	brand
+	material
+	suitable for
+	custom bundle
+	condition
+	price
+	item location
+
+19).bathrrom supplies & accessories->
+	brand
+	color
+	condition
+	price
+	item location
+
+	

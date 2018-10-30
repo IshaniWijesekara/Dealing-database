@@ -1,0 +1,362 @@
+1).Men's bags->
+	style
+	material
+	brand
+	color
+	hard/soft
+	features	
+	size
+	brand type
+	region manufacture
+	condition
+	price
+	item location
+
+2).men's belt buckles->
+	material
+	brand
+	theme
+	style
+	brand type
+	country/region manufacture
+	condition
+	price
+	item location
+
+3).Men's belts->
+	material
+	size
+	color
+	brand
+	style
+	country manufacture
+	features
+	brand type
+	condition
+	price
+	item location
+
+4).Men's collar stays->
+	brandType
+	brand
+	size
+	features
+	material
+	color
+	condition
+	price
+	item location
+
+5).Men's gloves & mittens->
+	size
+	material
+	style
+	color
+	brand
+	coluntry manufacture
+	brand type
+	condition
+	price
+	item location
+
+6).men's handkerchiefs->
+	type
+	material
+	brand
+	pattern
+	color
+	region manufacture
+	brand type
+	style
+	condition
+	price'	
+	item location
+
+7).men's hats->
+	style	
+	size
+	brand
+	color
+	material
+	adjustment type
+	brand type
+	region of manufacture
+	pattern
+	condition
+	price	
+	item location
+
+8).men's id & document holders->
+	material
+	brand
+	color
+	brand type
+	region of manufacture
+	type
+	condition
+	price
+	item location
+
+9).men's key chains,rings & cases->
+	type
+	brand
+	material
+	region of manufacture
+	theme
+	brand type
+	condition
+	price
+	item location
+
+10).men's scarves->
+	style
+	material
+	brand
+	color
+	pattern
+	brand type
+	region manufacture
+	condition
+	price
+	item location
+
+11).men's sunglassess & sunglassess accessories->
+	brand
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+12).men's suspenders->
+	color
+	material
+	type
+	brand
+	region of manufacture
+	brand type
+	condition
+	price
+	item location
+
+13).men's ties->
+	style
+	brand
+	width
+	pattern
+	color
+	material
+	brand type
+	region of manufacture
+	theme
+	condition
+	price
+	item location
+
+14).men's umbrellas->
+	style
+	brand
+	color
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+15).men's wallets->
+	style
+	material
+	brand
+	color
+	features
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+16).men's accessory sets->
+	region of manufacture
+	condition
+	price
+	item location
+
+17).womens belt buckles->
+	brand type
+	brand
+	theme
+	material
+	region of manufacture
+	condition
+	price
+	item location
+
+18).womens belts->
+	size
+	material
+	color
+	brand
+	width
+	style
+	region of manufacture
+	brand type
+	pattern
+	condition
+	price
+	item location
+
+19).womens' fascinators & headpieces->
+	fastening	
+	color
+	detailing
+	style
+	region of manufacture
+	material
+	brand
+	brand type
+	condition
+	price
+	item location
+
+20).women's gloves & mittens->
+	size
+	material
+	style
+	color
+	brand
+	length
+	region of manufacture
+	brand type
+	condition
+	price
+	item location
+
+
+21).women's hair accessories->
+	type
+	material
+	color
+	region of manufacture
+	theme
+	style
+	brand type
+	condition
+	price
+	item location
+
+22).women's handbag acessories->
+	type
+	region of manufacture	
+	brand type
+	color
+	brand
+	condition
+	price
+	item location
+
+23).women's hats->
+	style
+	color
+	material
+	brand
+	size
+	region of manufacture
+	brand type		
+	theme
+	condition
+	price
+	item location
+
+24).women's id & document holders->
+	material
+	brand
+	color
+	product type
+	region of manufacture
+	brand type
+	condition
+	price
+	item location
+
+25).women's key chains ,rings & finders->
+	brand
+	material
+	type
+	region of manufacture
+	brand type
+	theme
+	moified item
+	condition
+	price
+	item location
+
+26).women's organizers & day planners->
+	brand
+	color
+	brand type
+	condition
+	price
+	item location
+
+27).women's scarves & wraps->
+	style
+	material
+	brand
+	color
+	pattern
+	region of manufacture
+	shape
+	brand type
+	season
+	condition
+	price
+	item location
+
+28).women's sunglasses & sunglass accessories->
+	brand
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+29).women's ties->
+	style
+	brand
+	width
+	pattern
+	color
+	material
+	brand type
+	region of manufacture
+	theme
+	condition
+	price
+	item location
+
+30).women's umbrellas->
+	style
+	brand
+	color
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+31).women's wallets->
+	style
+	material
+	brand
+	color
+	features
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+32).
+
+	
+	

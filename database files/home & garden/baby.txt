@@ -1,0 +1,137 @@
+1).baby bathing & & grooming products->
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+
+2).baby car safety seats->
+	brand
+	color
+	custom bundle
+	theme
+	condition
+	price
+	item location
+
+3).baby carriers,slings & backpacks->
+	type 
+	brand
+	age 
+	color
+	material
+	features
+	custom bundle
+	size
+	condition
+	price
+	item location
+
+4).baby diapering products->
+	brand
+	color
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).baby feeding supplies->
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+6).baby gear->
+	brand
+	color
+	age	
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+7).baby keepsakes & announcement->
+	gender
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+8).baby toys->
+	age level
+	brand
+	color
+	custom bundle
+	theme 
+	condition
+	price
+	item location
+
+9).nursery bedding->
+	gender
+	brand
+	material
+	color
+	tofit	
+	theme
+	modified item
+	condition
+	price
+	item location
+
+10).nursery decor->
+	brand
+	theme
+	color
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+11).nursery feature->
+	color
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+12).potty training supplies->
+	type
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+13).strollers & accessories->
+	brand
+	color
+	custom bundle	
+	modified item
+	condition
+	price
+	item location
+
+14).bed pillows->
+	pillow size
+	type
+	fill material
+	brand
+	shape
+	condition
+	price
+	item location
+
+

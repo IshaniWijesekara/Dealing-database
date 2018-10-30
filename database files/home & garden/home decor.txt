@@ -1,0 +1,173 @@
+1).decor boxes, jars & tins->
+	material
+	type
+	shape
+	brand
+	style
+	custom bundle
+	features
+	condition
+	price
+	item location
+	
+2).candle holders & accessories->
+	material
+	type
+	brand
+	color
+	for
+	features
+	style
+	shape
+	custom bundle
+	condition
+	price
+	item location
+
+3).decor candles->
+	type
+	brand
+	features
+	scent
+	material
+	candle type
+	color
+	size
+	shape
+	condition
+	price
+	item location
+
+4).decorative clocks->
+	brand
+	theme
+	style
+	type
+	condition
+	price
+	item location
+5).decorative pillows->
+	room
+	type
+	shape 
+	material
+	color
+	brand
+	style
+	theme
+	pattern
+	condition
+	price
+	item loocation
+
+6).floral decor->
+	flower/greenery type
+	material
+	color
+	type
+	features
+	brand
+	condition
+	price
+	item location
+
+7).Frames->
+	Frame material
+	color
+	brand
+	type
+	shape
+	style
+	custom bundle
+	modified item
+	suitable for
+	condition
+	price
+	item location
+
+8).Lamps , lightening & ceiling fans->
+	brand
+	color
+	power source
+	light source
+	ciondition
+	price
+	item location
+
+9).Mirrors->
+	room
+	shape
+	frame material
+	style
+	brand
+	custom bundle
+	features
+	custom bundle
+	features
+	modified item
+	type
+	condition
+	price
+	item location
+
+10).plaques & signs->
+	material
+	color
+	type	
+	shape
+	theme
+	style
+	brand
+	color
+	room
+	custom bundle
+	condition
+	price
+	item location
+
+11).tapestries->
+	theme
+	pattern
+	style
+	brand
+	material
+	type
+	features
+	condition
+	price
+	item location
+
+12).vases->	
+	material
+	brand
+	color
+	type
+	shape
+	style
+	theme
+	custom bundle
+	condition
+	price
+	item location
+
+13).Wall shelves->
+	material
+	color
+	brand
+	type
+	style
+	number of shelves	
+	custom bundle
+	condition
+	price
+	item location
+
+14).window treatements & hardware->
+	color
+	brand
+	condition
+	price
+	item location
+
+
+	

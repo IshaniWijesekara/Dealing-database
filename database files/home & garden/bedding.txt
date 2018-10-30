@@ -1,0 +1,147 @@
+1).bed in a bag bedding sets->
+	size
+	color
+	material
+	pattern
+	theme
+	brand
+	condition
+	price
+	item location
+
+2).bed netting & canopies->
+	size
+	color
+	style
+	theme	
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).bed pillows->
+	pillow size
+	type	
+	fill material
+	brand
+	shape
+	condition
+	price
+	item location
+
+4).bed skirts->
+	size
+	color
+	drop length
+	pattern
+	material
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).blankets & throws->
+	size
+	material
+	brand
+	color
+	pattern
+	shape
+	theme
+	features
+	custom bundle
+	condition
+	price
+	item location
+
+6).comforters & beddign sets->
+	size
+	material	
+	color
+	type
+	brand
+	pattern
+	fill material
+	custom bundle
+	theme
+	condition
+	price
+	item location
+
+7).decorative bed pillows->
+	color
+	shape
+	material
+	pattern
+	style
+	brand
+	theme
+	condition
+	price
+	item location
+
+8).duvet covers & bedding sets->
+	material
+	size
+	set includes
+	pattern
+	color
+	brand
+	modified item
+	custom bundle
+	number of items in set
+	condition
+	price
+	item location
+
+9).mattress pads & feather beds->
+	size
+	type
+	material
+	brand
+	modified item
+	condition
+	price
+	item location
+
+10).pillow shames->
+	material
+	pillow size
+	color
+	pattern
+	brand
+	condition
+	price
+	item location
+
+11).quilts,bedspreads & coverlets->
+	size
+	type
+	material
+	brand
+	pattern
+	style
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+12).sheets & pillowcases->
+	material
+	bed size
+	pattern
+	type
+	color
+	brand
+	pillowcase size
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+

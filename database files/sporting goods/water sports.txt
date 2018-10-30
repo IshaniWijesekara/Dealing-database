@@ -1,0 +1,158 @@
+1).womens water shoes->
+	size
+	type
+	main color
+	custom bundle
+	brand
+	sport
+	width
+	modified item
+	condition
+	Price
+	item location
+
+2).Mens water shoes->
+	size
+	type
+	main color
+	custom bundle
+	brand
+	sport
+	width
+	modified item
+	condition
+	Price
+	item location
+
+3).youth water shoes->
+	gender
+	size
+	type'
+	brand
+	sport
+	custom bundle
+	condition
+	price
+	item location
+
+4).swimming equipments->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+5).swimming goggles->
+	brand
+	featured refinements
+	custom bundle
+	price
+	condition
+	item location
+
+6).inflatable swimming floats & tubes->
+	featured refinements
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+7).swimming training aids->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+8).swim wear & safety equipments->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+9).swimming hats & helmets->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+10).life jackets & preservers->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+11).swim caps->
+	brand
+	condition
+	fetured refinment
+	price
+	item location
+
+12).sports swim wear->
+	gender
+	style
+	size
+	size type
+	material
+	brand
+	condition
+	price
+	item location
+	
+13).wakeboarding & waterskiing equipments->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+
+14).wakeboard binding->
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+15).waterskii bindin->
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+
+16).wetsuits ->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+17).drysuits->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+18).wetsuits & drysuits hoods->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+19).wetsuits & drysuit rash guards->
+	featured refinment
+	brand
+	custom bundle
+	condition
+	PRICE
+	Item location
+
+20).

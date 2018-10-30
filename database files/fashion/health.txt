@@ -1,0 +1,215 @@
+1).diabatic care->
+	brand
+	condition
+	price
+	item location
+
+2).diabatic monitoring kits->
+	brand
+	type
+	condition
+	price
+	item location
+
+3).diabates glucose monitors->
+	brand
+	condition
+	price
+	item location
+
+4).diabateic care bags->
+	type
+	brand
+	features
+	condition
+	price
+	item location
+
+5).ear care products->
+	brand
+	type
+	condition
+	price
+	item location
+
+6).feminine care->
+	brand
+	condition
+	price
+	item location
+7).fistaid products->
+	brand
+	condition
+	price
+	item location
+
+8).foot creams & treatements->
+	type
+	formulation
+	brand
+	condition
+	price
+	item location
+
+9).hand sanitizers->
+	brand
+	condition
+	price
+	item location
+
+10).hot & cold therapies->
+	brand
+	condition
+	price
+	item location
+
+11).medical monitoring & testing equipment->
+	brand
+	condition
+	price
+	item location
+
+12).over the counter medications->
+	brand
+	condition
+	price
+	item location
+
+13).pill boxes & pill cases->
+	type
+	compartmenrs per day
+	features
+	no of days
+	brand
+	condition
+	price
+	item location
+
+14).sexual wellness products->
+	brand
+	condition
+	price
+	item location
+
+15).sleeping aids->
+	brand
+	condition
+	price
+	item location
+
+16).smoking cessation products->
+	brand
+	condition
+	price
+	item location
+17).squeezable stress releaser->
+	color
+	brand
+	type
+	condition
+	price
+	item location
+
+18).medical & mobility->
+	brand
+	condition
+	price
+	item location
+
+19).natural & alternative remedies->
+	brand
+	condition
+	price
+	item location
+
+20).Oral care->
+	brand
+	condition
+	price
+	item location
+
+21).vision care->
+	brand
+	color
+	modified item
+	condition
+	price
+	item location
+22).vitamins & supplimemts->
+	brand
+	condition
+	price
+	item location
+
+23).weight management->
+	brand
+	condition
+	price
+	item location
+
+24).apetite control & suppresents->
+	formulation
+	condition
+	price
+	item location
+25).body fat analyzers->
+	brand
+	type
+	condition
+	price
+	item location
+
+26).weight management detox & clensers->
+	features
+	brand
+	product
+	condition
+	price
+	item location
+
+27).weight management fat burners->
+	brand
+	type
+	condition
+	price
+	item location
+
+28).metal replacement drinks->
+	flavour
+	type
+	brand
+	formulation
+	nutrtion product
+	gender
+	supply 
+	suitable for
+	condition
+	price
+	item location
+
+29).weight management scales->
+	type
+	brand
+	capacity	
+	featueres	
+	analog/digital
+	condition
+	price
+	item location
+
+30).weight loss kits & accessories->
+	brand
+	kit comnponents
+	condition
+	price
+	item location
+
+31).weight loss supplements->
+	active ingrediants
+	formulation
+	brand
+	condition
+	price
+	item location
+
+32).

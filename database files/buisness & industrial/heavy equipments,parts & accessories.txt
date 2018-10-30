@@ -1,0 +1,26 @@
+1).heavy equipment->
+	make 
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+2).heavy equipment attachment->
+	brand
+	equipment type
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).heavy equipment parts & accessories->
+	brand
+	make
+	type
+	part type	
+	condition
+	price
+	item location
+

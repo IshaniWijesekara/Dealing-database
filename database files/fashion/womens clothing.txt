@@ -1,0 +1,190 @@
+1).womens active wear->
+	pattern
+	brand type
+	brand
+	activity
+	color
+	fit
+	condition
+	price
+	item location
+
+2).womens coats ,jackets  & vests->
+	size
+	brand
+	material
+	color
+	features
+	occassion
+	style
+	condityion
+	region of manufacture
+	price
+	item location
+
+3).womens dresses->
+	size
+	sleeve length
+	dress length
+	brand
+	occassion
+	color
+	material
+	style
+	condition
+	price
+	item location
+
+4).womens hosiery & socks->
+	brand
+	color
+	style
+	material
+	region of manufacture
+	brand type
+	condition
+	price
+	item location
+
+5).womns intimates & sleepwear->
+	size type
+	brand
+	color
+	material
+	region of manufacture
+	brand type	
+	condition
+	price
+	item location
+
+6).womens jeans->
+	size
+	brand
+	size type
+	silhoutte
+	brand type
+	inseam
+	treatement
+	color
+	condition 
+	price
+	item location
+
+7).womens jumpsuits & rockers->
+	size
+	style
+	brand
+	color
+	material
+	pattern
+	brand type
+	region o manufacture
+	ocaassion
+	condition 
+	price
+	item location
+
+8).womens leggings->
+	size
+	size type	
+	brand
+	color
+	material
+	fetaures
+	length
+	brand type
+	region of manufacture
+	condition
+	price
+	item location
+
+9).maternity clothing->
+	size typre
+	brand	
+	color
+	region of manufacture
+	material
+	brand type
+	condition 
+	price
+	item location
+
+10).womens pants->:
+	size
+	brand
+	size type
+	color
+	style
+	brand type
+	material
+	occassion
+	region of manufacture
+	condition 
+	price
+	item location
+
+11).womens shorts->
+	size
+	Size type
+	length
+	brand
+	color
+	brand type
+	rise
+	occassion
+	material
+	condition 
+	price
+	item location
+
+12).womens skirts->
+	size
+	Size type
+	length
+	brand
+	color
+	brand type
+	material
+	condition 
+	price
+	item location
+	
+
+13).womens sweaters->
+	size
+	brand
+	sleve length
+	color	
+	material
+	style	
+	brand type
+	condition 
+	price
+	item location
+
+14).WOMENS SWIM WEAR->
+	SIZE
+	style
+	brand
+	color
+	brand type
+	region of manufacture
+	theme
+	patern
+	condition 
+	price
+	item location
+
+15).womens tops->
+	size
+	sleeve length
+	dress length
+	brand
+	occassion
+	color
+	material
+	style
+	condition
+	price
+	item location
+	

@@ -1,0 +1,118 @@
+1).home air tools->	
+	brand
+	condition
+	price
+	item location
+
+2).home hand tools->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+3).tool & workshop manuals & guides->
+	brand
+	condition
+	price
+	item location
+
+4).measuring & layout tools->
+	brand
+	condition
+	price
+	item location
+	
+5).power tools->
+	brand
+	condition
+	price
+	item location
+
+6).safety  & protective gear->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+	
+7).tool boxes & storage->
+	type
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+8).home workshop & storage equipment->
+	brand
+	condition
+	price
+	item location
+
+9).home welding & soldering tools->
+	type
+	brand
+	condition
+	price
+	item location
+
+10).tie down & straps->
+	type	
+	brand
+	custom bundle
+	modified item
+	condition
+	price	
+	item location
+
+11).hand tools->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+12).ladders->
+	type
+	brand
+	material
+	condition
+	price
+	item location
+
+13).generators->
+	brand
+	type
+	generator type
+	fuel type
+	custom bundle
+	max output
+	rated output
+	condition
+	price
+	item location
+
+14).flashlights->
+	brand
+	faetures
+	bulb type
+	color
+	battery type
+	material
+	num. of batteries
+	condition
+	price
+	item location
+
+15).air compressors->
+	voltage
+	brand
+	type
+	custom bundle
+	portability
+	condition
+	price
+	item location
+

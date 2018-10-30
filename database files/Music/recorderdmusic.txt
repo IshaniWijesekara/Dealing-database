@@ -1,0 +1,47 @@
+1).Music CD'S->
+	genere	
+	release year
+	duration
+	artists
+	record label
+`	special attributes
+	edition
+	condition
+	price
+	item location
+
+2).Music cassetts->
+	genere
+	cassette condition
+	artists
+	duration
+	case condition
+	inlay condition
+	edition
+	condition
+	price
+	item location
+
+3).Vinyl music records->
+	duration
+	record size
+	speed
+ 	genere
+	release year
+	artistst
+	record grading
+	style
+	record label
+	condition
+	price
+	item location
+
+4).music storage & media accessories->
+	To Fit
+	type
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location

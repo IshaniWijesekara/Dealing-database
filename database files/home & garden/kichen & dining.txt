@@ -1,0 +1,109 @@
+1).bakeware->
+	brand
+	material
+	type
+	shape
+	color
+	condition
+	price
+	item location
+
+2).bar tools & accessories->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+3).baking accessories & cake decorating->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).cookware->
+	material
+	brand
+	type
+	features
+	color
+	condition
+	price
+	item location
+
+5).dinnerware & serving dishes->
+	material
+	color
+	brand
+	pattern
+	condition	
+	price
+	item location
+
+6).vaccum flasks & mugs->
+	type
+	material
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+7).flatware knives & cultery->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+8).glassware & drinkware->
+	material
+	brand
+	type
+	features
+	color
+	condition
+	price
+	item location
+9).kitchen islands & kitchen carts->
+	color
+	material
+	type
+	brand
+	condition
+	price
+	item location
+
+10).kichen , dining & bar storage equipment->
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+11).kitchen tools & gadgets->
+	brand
+	color
+	custom bundle
+	condition
+	price
+	item location
+
+12).kitchen & dining linens & textiles->
+	brand
+	condition
+	price
+	item location
+
+13).small kitchen appliances->
+	brand
+	color
+	power
+	custom bundle
+	condition
+	price
+	item location
+
+14).

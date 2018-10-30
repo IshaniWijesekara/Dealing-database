@@ -1,0 +1,101 @@
+1).alphabet & lamguage toys->
+	age level
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).electronic learining toys->
+	brand
+	character family
+	age level
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+3).geography & history toys->
+	brand
+	age level
+	custom bundle
+	condition
+	price
+	item location
+
+4).mathematics toys->
+	brand
+	age level
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).multilingual educational toys->
+	brand
+	age level
+	condition
+	price
+	item location
+
+6).music & art educational toys->
+	age level
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+7).educational number toys->
+	brand
+	age level
+	custom bundle
+	condition
+	price
+	item location
+
+8).reading & writting toys->
+	brand
+	age level
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+9).sceince & nature educational toys->
+	brand
+	age level
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+10).special needs & autism->
+	age level	
+	custom bundle
+	brand	
+	condition
+	price
+	item location
+
+11).time telling toys->
+	brand
+	age level
+	custom bundle
+	condition
+	price
+	item location
+
+12).multiple subject educational toys & mixed item->
+	brand
+	age level
+	modifed item
+	condition
+	price
+	item location
+
+13).

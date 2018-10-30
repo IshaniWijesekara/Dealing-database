@@ -1,0 +1,117 @@
+1).air compressors & blowers->
+	brand
+	condition
+	price
+	item location
+
+2).air pressure gauges->
+	brand
+	maximum pressure
+	connection diameter
+	mounting position
+	condition
+	price
+	item location
+
+3).compressed air treatment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).faucet & hydrant repair kits->
+	compatible brand
+	custom bundle
+	modified item
+	brand
+	condition
+	price
+	item location
+
+5).fittings & adapters->
+	brand
+	condition
+	price
+	item location
+
+6).hydraulic & pneumatic clinders->
+	brand
+	cylinder type
+	cylinder action
+	condition
+	price
+	item location
+
+7).hydraulic & pneumatic motors->
+	brand
+	condition
+	price
+	item location
+
+8).hydraulic filters & cartridges->
+	brand
+	condition
+	price
+	item location
+
+9).hydraulic fluid->
+	brand
+	viscosity grade
+	container volume
+	custom bundle
+	condition
+	price
+	item location
+
+10).hydraulic fluid reservoirs->
+	material 
+	brand
+	custom bundle
+	condition
+	price 
+	item location
+
+11).pipe ,hose & tubing->
+	brand
+	custom bundle
+	modified item	
+	condition
+	price
+	iem location
+
+12).pnematic muffers & scilensers->
+	brand
+	muffer type
+	element material
+	Thread standard
+	thread diameter
+	condition
+	price
+	item location
+
+13).pump & flow controllers->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+14).pumps & pump accessories->
+	brand
+	condition
+	price
+	item location
+15).rupture discs->
+	disc diameter
+	condition
+	price
+	item location
+
+16).valves & manifolds->
+	brand
+	valve operators
+	custom bundle
+	condition
+	price
+	item location

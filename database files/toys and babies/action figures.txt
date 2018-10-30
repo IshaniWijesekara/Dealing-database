@@ -1,0 +1,160 @@
+1).animals & dinosaur action figures->
+	shop for
+	size
+	brand
+	material
+	type
+	animal type
+	theme
+	packaging
+	age level
+	condition
+	price
+	item location
+
+2).anime & manga action figures->
+	shop for
+	brand
+	type
+	character family
+	material
+	character
+	year
+	size
+	era
+	condition
+	price
+	item location
+
+3).comic book hero action figures->
+	shop for
+	brand
+	character
+	type
+	character family
+	size
+	year
+	packaging
+	era
+	condition
+	price
+	item location
+
+4).designer & urban vinyl action figures->
+	brand
+	shop for
+	material
+	character family
+	character
+	type
+	year
+	size
+	packaging
+	condition
+	price
+	item loation
+
+5).fantasy action figures->
+	shop for
+	size
+	era
+	brand
+	packaging
+	type
+	year	
+	condition
+	price
+	item location
+
+6).historical action figures->
+	shop for 
+	brand
+	size
+	era
+	packaging
+	type
+	age level
+	condition
+	price
+	item locaion
+
+7).military action->
+	shop for
+	brand
+	size
+	type
+	year
+	character family
+	scale
+	packaging
+	charcter
+	condition
+	price
+	item location
+
+8).mixed lots->
+	TYPE
+	shop for
+	brand
+	character
+	charcter family
+	packaging
+	material
+	year
+	era
+	condition
+	price
+	item location
+
+9).music->
+	shop for
+	size
+	era
+	brand	
+	packaging
+	type
+	age level
+	condition
+	price
+	item location
+
+10).sports->
+	theme
+	brand
+	shop for
+	type
+	packaging
+	year
+	era
+	size
+	material
+	condition
+	price
+	item location
+
+11).tv,movie & video game action figure->
+	shop for
+	brand
+	character family
+	type
+	character
+	year	
+	size
+	packaging
+	material
+	condition
+	price
+	item location
+
+12).transformers & robots action figures->
+	shop for 
+	brand
+	character
+	year
+	type
+	packaging
+	era
+	material
+	condition
+	price
+	item location

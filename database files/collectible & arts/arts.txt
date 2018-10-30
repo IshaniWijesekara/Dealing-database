@@ -1,0 +1,102 @@
+1).art photographs->
+	features
+	condition
+	PRICE
+	Item location
+
+2).art posters->
+	style
+	subject
+	originality
+	date of creation
+	features
+	size
+	condition
+	price
+	item location
+
+3).ART PRINTS->
+	originality
+	listed by
+	subject	
+	features
+	medium
+	style	
+	date of creation
+	condition
+	price
+	item location
+
+4).art drawing->
+	subject
+	originality
+	date of reation
+	features
+	listed by
+	style
+	size
+	region of origin
+	condition	
+	price
+	item location
+
+5).folk arts & indigenous arts->
+	type
+	date of creation
+	style
+	originality
+	material
+	subject
+	region of origin
+	features
+	condition
+	price	
+	item location
+
+6).mixed media art & collage arts->
+	style
+	originality
+	features
+	material
+	subject
+	size
+	color
+	condition
+	price
+	item location
+
+7).art paintings->
+	originality
+	date of creation
+	features
+	subject
+	painting structure
+	sIZE
+	condition
+	price
+	item location
+
+8).art sculptures->
+	subjecrt
+	medium
+	originality
+	type
+	size
+	region of origin
+	date of creation
+	condition
+	price
+	item location
+
+9).textile arts->	
+	originality
+	subject
+	size
+	color
+	features
+	condition
+	price
+	item location
+
+
+	

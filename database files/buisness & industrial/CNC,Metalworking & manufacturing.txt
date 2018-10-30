@@ -1,0 +1,178 @@
+1).metalworking abrasives->
+	brand
+	condition
+	price
+	item location
+
+2).metalworking abrasives belts->
+	brand
+	condition
+	price
+	item location
+
+3).metalworking abrasive brushes->
+	custom bundle
+	featured refinment
+	brand
+	condition
+	price
+	item location
+
+4).metalworking abrasive cut-off wheels->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+5).metalworking abrasive siscs->	
+	brand	
+	condition
+	price
+	item location
+
+6).metalworking grinding wheels->
+	custom bundle
+	condition
+	brand
+	price
+	item location
+
+7).industrial drill presses->
+	brand
+	power source
+	type
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+8).drilling & tapping machines->
+	custom bundle
+	condition
+	price
+	item location
+	
+9).EDM machines->
+	custom bundle
+	make
+	modified item
+	Condition
+	price
+	Item location
+
+10).grinding machines->
+	make
+	brand
+	CONDITION
+	price
+	Item location
+
+11).metalworking inspection & measurements->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+12).milling machines->
+	featured refinment
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+13).punch presses->
+	condition
+	price
+	item location
+
+14).sheet metal shears->
+	make
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+15).process engineering eqipment->
+	brand
+	condition
+	price
+	item location
+
+16).filteration process equipment->
+	brand
+	condition
+	price
+	item location
+
+17).raw materials->
+	brand
+	condition
+	price
+	item location
+
+18).metals & alloys->
+	brand
+	material
+	condition
+	Price
+	item location
+
+19).plastics & rubbers->
+	brand
+	modified item
+	condition
+	price
+	item location
+
+20).carbon fiber raw material->
+	brand
+	condition
+	price
+	item location
+
+21).graphite raw materials->
+	brand
+	condition
+	price
+	item location
+
+22).semiconductor & pcb manufacturing->	
+	brand
+	Condition
+	price
+	item location
+
+23).textile & apperal manufacturing equipment->
+	brand
+	condition
+	price
+	item location
+
+24).welding & soldering equipments->
+	brand
+	condition
+	price
+	item location
+
+25).industrial woodworking tools & supplies->
+	custom bundle
+	brand
+	modified item
+	condition
+	price
+	item location
+
+26).workholding & toolholding->
+	custom bundle
+	brand
+	condition
+	price
+	item location

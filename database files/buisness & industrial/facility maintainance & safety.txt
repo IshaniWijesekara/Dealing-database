@@ -1,0 +1,62 @@
+1).access control equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+2).facility bathroom & refuse->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+3).facility safety equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).industrial fire protection equipment->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+5).lockout /tagout supplies->
+	custom bundle
+	brand
+	condition
+	price
+	item location
+
+6).public safety staff equipment->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+7).industrial surveillance & alarm equipment->
+	brand
+	condition
+	price
+	item location
+
+8).personal protective equipment->
+	brand
+	condition
+	price
+	item location
+
+9).safety signs & traffic control->
+	brand
+	custom bundle
+	condition
+	price
+	item location

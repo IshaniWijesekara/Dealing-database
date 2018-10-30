@@ -1,0 +1,125 @@
+1).Carpets & floor sweepers->
+	brand
+	custom bundle
+	featured requirement
+	modified item
+	protection plan
+	condition
+	price
+
+2).carpet shampooers->
+	brand
+	type
+	custom bundle
+	modified item
+	protection plan
+	condition
+	price
+	item location
+
+3).carpet steamers->
+	type
+	brand
+	protection plan
+	condition
+	price
+	item location
+
+4).carpet & floor sweepers->
+	brand
+	custom bundle
+	featured requirment
+	modified item
+	protecction plan
+	condition
+	price
+	item location
+
+5).cleaning supplies->
+	brand
+	type of cleaner
+	custom bundle
+	condition
+	price
+	item location
+
+6).home organization supplies->
+	brand
+	material
+	custom bundle
+	condition
+	price
+	item location
+
+7).laundry supplies->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+8).mops & brooms->
+	brand
+	featured refinment
+	custom bundle
+	condition
+	price
+	item location
+
+9).household paper products->
+	custom bundle
+	condition
+	price
+	item location
+
+10).reusable shopping bags->
+	brand
+	condition
+	price
+	item location
+
+11).trash cans & wastebaskets->
+	type
+	brand
+	features
+	custom bundle
+	condition
+	price
+	item location
+
+12).vaccum cleaner bags->
+	brand
+	compatible brand
+	condition
+	price
+	item location
+
+13).vaccum cleaners->
+	brand
+	type
+	bagged/bagless
+	cord type
+	filters
+	features
+	custom bundle
+	protection plan
+	condition
+	price
+	item location
+
+14).vaccum parts & accessories->
+	brand
+	type
+	condition
+	price
+	item location
+
+15).vintage vaccums->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
+
+16).

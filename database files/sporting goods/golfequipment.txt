@@ -1,0 +1,59 @@
+1).Golf Equipment->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+	
+2).Golf accessories->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+
+3).Golf Bag Tags->
+	brand
+	custom bundle
+	condition
+	price
+	item location
+
+4).Golf Ball Markers->
+	type
+	brand
+	material
+	custom bundle
+	condition
+	price
+	item location
+
+5).Golf Ball Pick-ups & retreivers->
+	brand
+	condition
+	price
+	item location
+
+6).Golf club head coers->
+	brand
+	type
+	custom bundle
+	condition
+	price
+	item location
+
+7).golf divot tools->
+	brand
+	type
+	condition
+	price
+	item location
+
+8).golf spikes->
+	brand
+	custom bundle
+	modified item
+	condition
+	price
+	item location
